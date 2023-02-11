@@ -1,0 +1,929 @@
+[
+    {
+        "model": "Compute",
+        "capacity": "2000",
+        "brand": "63e6744e6e9da9cc5b49a833",
+        "type": "63e3c86eb8519809284e97cc",
+        "cache": "256",
+        "form_factor": "63e3ca6c76a2a4217c96c737",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "Blue SN550",
+        "capacity": "1000",
+        "brand": "63e676baef96c721ef68351c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "970 Evo Plus",
+        "capacity": "1000",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": "1024",
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "860 Evo",
+        "capacity": "1000",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": "1024",
+        "form_factor": "63e3ca6c76a2a4217c96c738",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "980 Pro",
+        "capacity": "1000",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": "1024",
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "970 Evo",
+        "capacity": "500",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": "512",
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "Blue",
+        "capacity": "500",
+        "brand": "63e676baef96c721ef68351c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d47"
+    },
+    {
+        "model": "970 EVO Plus",
+        "capacity": "2000",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": "1024",
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "Caviar Blue",
+        "capacity": "1000",
+        "brand": "63e676baef96c721ef68351c",
+        "type": "63e3c86eb8519809284e97cc",
+        "cache": "64",
+        "form_factor": "63e3ca6c76a2a4217c96c737",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "980 Pro",
+        "capacity": "2000",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "Compute",
+        "capacity": "1000",
+        "brand": "63e6744e6e9da9cc5b49a833",
+        "type": "63e3c86eb8519809284e97cc",
+        "cache": "64",
+        "form_factor": "63e3ca6c76a2a4217c96c737",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "A400",
+        "capacity": "240",
+        "brand": "63e676baef96c721ef68351d",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c738",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "Blue SN550",
+        "capacity": "500",
+        "brand": "63e676baef96c721ef68351c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "980",
+        "capacity": "1000",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "SSDPEDMD020T401",
+        "capacity": "2000",
+        "brand": "63e216d4f8c92b75b8f97851",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e688f16e9da9cc5b49a839",
+        "port": "63e3c6255d2efd1ac6f27a63"
+    },
+    {
+        "model": "SN750",
+        "capacity": "1000",
+        "brand": "63e676baef96c721ef68351c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "970 Evo Plus",
+        "capacity": "500",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": "512",
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "P2",
+        "capacity": "500",
+        "brand": "63e676baef96c721ef68351e",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "860 Evo",
+        "capacity": "500",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": "512",
+        "form_factor": "63e3ca6c76a2a4217c96c738",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "970 Evo",
+        "capacity": "1000",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": "1024",
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "870 Evo",
+        "capacity": "2000",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": "2048",
+        "form_factor": "63e3ca6c76a2a4217c96c738",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "Blue",
+        "capacity": "1000",
+        "brand": "63e676baef96c721ef68351c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d47"
+    },
+    {
+        "model": "MX500",
+        "capacity": "1000",
+        "brand": "63e676baef96c721ef68351e",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": "1024",
+        "form_factor": "63e3ca6c76a2a4217c96c738",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "Q",
+        "capacity": "8000",
+        "brand": "63e676baef96c721ef68351f",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "980",
+        "capacity": "500",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "870 Evo",
+        "capacity": "1000",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": "1024",
+        "form_factor": "63e3ca6c76a2a4217c96c738",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "SN750",
+        "capacity": "500",
+        "brand": "63e676baef96c721ef68351c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "970 Evo Plus",
+        "capacity": "250",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": "512",
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "980 Pro",
+        "capacity": "500",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": "512",
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "Blue",
+        "capacity": "2000",
+        "brand": "63e676baef96c721ef68351c",
+        "type": "63e3c86eb8519809284e97cc",
+        "cache": "256",
+        "form_factor": "63e3ca6c76a2a4217c96c737",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "P2",
+        "capacity": "1000",
+        "brand": "63e676baef96c721ef68351e",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "Gold",
+        "capacity": "18000",
+        "brand": "63e676baef96c721ef68351c",
+        "type": "63e3c86eb8519809284e97cc",
+        "cache": "512",
+        "form_factor": "63e3ca6c76a2a4217c96c737",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "Black SN850",
+        "capacity": "1000",
+        "brand": "63e676baef96c721ef68351c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "4.0",
+        "capacity": "1000",
+        "brand": "63e676baef96c721ef68351f",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "QX",
+        "capacity": "15300",
+        "brand": "63e676baef96c721ef683520",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c738",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "Blue",
+        "capacity": "1000",
+        "brand": "63e676baef96c721ef68351c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c738",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "Blue",
+        "capacity": "2000",
+        "brand": "63e676baef96c721ef68351c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d47"
+    },
+    {
+        "model": "Black",
+        "capacity": "4000",
+        "brand": "63e676baef96c721ef68351c",
+        "type": "63e3c86eb8519809284e97cc",
+        "cache": "256",
+        "form_factor": "63e3ca6c76a2a4217c96c737",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "A400",
+        "capacity": "120",
+        "brand": "63e676baef96c721ef68351d",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c738",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "MP33",
+        "capacity": "512",
+        "brand": "63e676baef96c721ef683520",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "MP33",
+        "capacity": "1000",
+        "brand": "63e676baef96c721ef683520",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "870 Evo",
+        "capacity": "4000",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": "4096",
+        "form_factor": "63e3ca6c76a2a4217c96c738",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "870 QVO",
+        "capacity": "8000",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c738",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "P1",
+        "capacity": "500",
+        "brand": "63e676baef96c721ef68351e",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "Compute",
+        "capacity": "4000",
+        "brand": "63e6744e6e9da9cc5b49a833",
+        "type": "63e3c86eb8519809284e97cc",
+        "cache": "256",
+        "form_factor": "63e3ca6c76a2a4217c96c737",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "A400",
+        "capacity": "480",
+        "brand": "63e676baef96c721ef68351d",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c738",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "Blue",
+        "capacity": "500",
+        "brand": "63e676baef96c721ef68351c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c738",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "P1",
+        "capacity": "1000",
+        "brand": "63e676baef96c721ef68351e",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "870 QVO",
+        "capacity": "2000",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c738",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "A2000",
+        "capacity": "1000",
+        "brand": "63e676baef96c721ef68351d",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "Compute",
+        "capacity": "1000",
+        "brand": "63e6744e6e9da9cc5b49a833",
+        "type": "63e3c86eb8519809284e97cc",
+        "cache": "64",
+        "form_factor": "63e3ca6c76a2a4217c96c737",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "Q",
+        "capacity": "1000",
+        "brand": "63e676baef96c721ef68351f",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "MX500",
+        "capacity": "500",
+        "brand": "63e676baef96c721ef68351e",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": "512",
+        "form_factor": "63e3ca6c76a2a4217c96c738",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "870 Evo",
+        "capacity": "500",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": "512",
+        "form_factor": "63e3ca6c76a2a4217c96c738",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "MP600 Force Series Gen4",
+        "capacity": "1000",
+        "brand": "63e4b423fa998a018052c7d7",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "MP400",
+        "capacity": "8000",
+        "brand": "63e4b423fa998a018052c7d7",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "Black SN850",
+        "capacity": "2000",
+        "brand": "63e676baef96c721ef68351c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "A2000",
+        "capacity": "500",
+        "brand": "63e676baef96c721ef68351d",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "IronWolf Pro",
+        "capacity": "18000",
+        "brand": "63e6744e6e9da9cc5b49a833",
+        "type": "63e3c86eb8519809284e97cc",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c737",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "980 Pro",
+        "capacity": "250",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": "512",
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "P5",
+        "capacity": "1000",
+        "brand": "63e676baef96c721ef68351e",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "870 QVO",
+        "capacity": "1000",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c738",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "BX500",
+        "capacity": "1000",
+        "brand": "63e676baef96c721ef68351e",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c738",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "WD Blue",
+        "capacity": "2000",
+        "brand": "63e676baef96c721ef68351c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c738",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "IronWolf Pro",
+        "capacity": "4000",
+        "brand": "63e6744e6e9da9cc5b49a833",
+        "type": "63e3c86eb8519809284e97cc",
+        "cache": "128",
+        "form_factor": "63e3ca6c76a2a4217c96c737",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "960 Pro",
+        "capacity": "2000",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": "2048",
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "660p Series",
+        "capacity": "1.02000",
+        "brand": "63e216d4f8c92b75b8f97851",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "MX500",
+        "capacity": "2000",
+        "brand": "63e676baef96c721ef68351e",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": "2048",
+        "form_factor": "63e3ca6c76a2a4217c96c738",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "4 Plus",
+        "capacity": "4000",
+        "brand": "63e676baef96c721ef68351f",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "860 Evo",
+        "capacity": "250",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": "512",
+        "form_factor": "63e3ca6c76a2a4217c96c738",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "GX2",
+        "capacity": "1000",
+        "brand": "63e676baef96c721ef683520",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c738",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "A2000",
+        "capacity": "250",
+        "brand": "63e676baef96c721ef68351d",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "Black SN850",
+        "capacity": "500",
+        "brand": "63e676baef96c721ef68351c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "DC P3608",
+        "capacity": "4000",
+        "brand": "63e216d4f8c92b75b8f97851",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e688f16e9da9cc5b49a839",
+        "port": "63e6744e6e9da9cc5b49a833"
+    },
+    {
+        "model": "P5",
+        "capacity": "500",
+        "brand": "63e676baef96c721ef68351e",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "Blue SN550",
+        "capacity": "250",
+        "brand": "63e676baef96c721ef68351c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "GX2",
+        "capacity": "512",
+        "brand": "63e676baef96c721ef683520",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c738",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "Compute",
+        "capacity": "500",
+        "brand": "63e6744e6e9da9cc5b49a833",
+        "type": "63e3c86eb8519809284e97cc",
+        "cache": "16",
+        "form_factor": "63e3ca6c76a2a4217c96c737",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "IronWolf NAS",
+        "capacity": "8000",
+        "brand": "63e6744e6e9da9cc5b49a833",
+        "type": "63e3c86eb8519809284e97cc",
+        "cache": "256",
+        "form_factor": "63e3ca6c76a2a4217c96c737",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "A400",
+        "capacity": "120",
+        "brand": "63e676baef96c721ef68351d",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d47"
+    },
+    {
+        "model": "Blue",
+        "capacity": "4000",
+        "brand": "63e676baef96c721ef68351c",
+        "type": "63e3c86eb8519809284e97cc",
+        "cache": "64",
+        "form_factor": "63e3ca6c76a2a4217c96c737",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "Blue",
+        "capacity": "1000",
+        "brand": "63e676baef96c721ef68351c",
+        "type": "63e3c86eb8519809284e97cc",
+        "cache": "64",
+        "form_factor": "63e3ca6c76a2a4217c96c737",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "870 QVO",
+        "capacity": "4000",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c738",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "Compute",
+        "capacity": "2000",
+        "brand": "63e6744e6e9da9cc5b49a833",
+        "type": "63e3c86eb8519809284e97cc",
+        "cache": "64",
+        "form_factor": "63e3ca6c76a2a4217c96c737",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "A400",
+        "capacity": "240",
+        "brand": "63e676baef96c721ef68351d",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d47"
+    },
+    {
+        "model": "BLACK SERIES",
+        "capacity": "2000",
+        "brand": "63e676baef96c721ef68351c",
+        "type": "63e3c86eb8519809284e97cc",
+        "cache": "64",
+        "form_factor": "63e3ca6c76a2a4217c96c737",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "870 Evo",
+        "capacity": "250",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": "512",
+        "form_factor": "63e3ca6c76a2a4217c96c738",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "Q",
+        "capacity": "2000",
+        "brand": "63e676baef96c721ef68351f",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "Enterprise Capacity",
+        "capacity": "10000",
+        "brand": "63e6744e6e9da9cc5b49a833",
+        "type": "63e3c86eb8519809284e97cc",
+        "cache": "256",
+        "form_factor": "63e3ca6c76a2a4217c96c737",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "4.0",
+        "capacity": "500",
+        "brand": "63e676baef96c721ef68351f",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "SU635",
+        "capacity": "240",
+        "brand": "63e676baef96c721ef683521",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c738",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "MP33",
+        "capacity": "256",
+        "brand": "63e676baef96c721ef683520",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "Blue SN550",
+        "capacity": "2000",
+        "brand": "63e676baef96c721ef68351c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "Compute",
+        "capacity": "2000",
+        "brand": "63e6744e6e9da9cc5b49a833",
+        "type": "63e3c86eb8519809284e97cc",
+        "cache": "256",
+        "form_factor": "63e3ca6c76a2a4217c96c737",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "Blue SN550",
+        "capacity": "1000",
+        "brand": "63e676baef96c721ef68351c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "970 Evo Plus",
+        "capacity": "1000",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": "1024",
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "860 Evo",
+        "capacity": "1000",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": "1024",
+        "form_factor": "63e3ca6c76a2a4217c96c738",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "980 Pro",
+        "capacity": "1000",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": "1024",
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "970 Evo",
+        "capacity": "500",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": "512",
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "Blue",
+        "capacity": "500",
+        "brand": "63e676baef96c721ef68351c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d47"
+    },
+    {
+        "model": "970 EVO Plus",
+        "capacity": "2000",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": "1024",
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    },
+    {
+        "model": "Caviar Blue",
+        "capacity": "1000",
+        "brand": "63e676baef96c721ef68351c",
+        "type": "63e3c86eb8519809284e97cc",
+        "cache": "64",
+        "form_factor": "63e3ca6c76a2a4217c96c737",
+        "port": "63e3c6255d2efd1ac6f27a5f"
+    },
+    {
+        "model": "980 Pro",
+        "capacity": "2000",
+        "brand": "63e216d4f8c92b75b8f9785c",
+        "type": "63e3c86eb8519809284e97cd",
+        "cache": null,
+        "form_factor": "63e3ca6c76a2a4217c96c73a",
+        "port": "63e686e8352c4b920c598d46"
+    }
+]

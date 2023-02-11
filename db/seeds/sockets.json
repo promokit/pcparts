@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "63e36816f45b638ef0b0ac05",
+        "name": "LGA 4189"
+    },
+    {
+        "_id": "63e36816f45b638ef0b0ac06",
+        "name": "LGA 1200"
+    },
+    {
+        "_id": "63e36816f45b638ef0b0ac07",
+        "name": "LGA 1700"
+    },
+    {
+        "_id": "63e36816f45b638ef0b0ac0a",
+        "name": "LGA 4677"
+    },
+    {
+        "_id": "63e36816f45b638ef0b0ac09",
+        "name": "SP5"
+    },
+    {
+        "_id": "63e36816f45b638ef0b0ac08",
+        "name": "AM5"
+    },
+    {
+        "_id": "63e7a6ec6e9da9cc5b49a857",
+        "name": "LGA 1151"
+    },
+    {
+        "_id": "63e7a5e06e9da9cc5b49a856",
+        "name": "AM4"
+    },
+    {
+        "_id": "63e7b41e6e9da9cc5b49a85a",
+        "name": "sTRX4"
+    }
+]

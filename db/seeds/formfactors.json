@@ -1,0 +1,34 @@
+[
+    {
+        "_id": "63e3c01fb959d469f926ed58",
+        "name": "Mini-ITX"
+    },
+    {
+        "_id": "63e3c01fb959d469f926ed59",
+        "name": "Nano-ITX"
+    },
+    {
+        "_id": "63e3c01fb959d469f926ed5a",
+        "name": "Pico-ITX"
+    },
+    {
+        "_id": "63e3c01fb959d469f926ed5b",
+        "name": "Mobile-ITX"
+    },
+    {
+        "_id": "63e3c01fb959d469f926ed56",
+        "name": "Standard-ATX"
+    },
+    {
+        "_id": "63e3c01fb959d469f926ed57",
+        "name": "Micro-ATX"
+    },
+    {
+        "_id": "63e4f90f3f59c72b0f6d0631",
+        "name": "SFX"
+    },
+    {
+        "_id": "63e4f90f3f59c72b0f6d0632",
+        "name": "SFX-L"
+    }
+]

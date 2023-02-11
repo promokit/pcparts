@@ -1,0 +1,294 @@
+[
+    {
+        "_id": "63e216d4f8c92b75b8f9783e",
+        "name": "AMD"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f9783f",
+        "name": "Aigo"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f97840",
+        "name": "Apple"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f97841",
+        "name": "ASRock"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f9783c",
+        "name": "Acer"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f97842",
+        "name": "Asus"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f97845",
+        "name": "Cisco"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f9783d",
+        "name": "AG Neovo"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f97847",
+        "name": "Dell"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f9784a",
+        "name": "Fujitsu"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f9784c",
+        "name": "Google"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f9784e",
+        "name": "HP"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f9784d",
+        "name": "Hisense"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f9784f",
+        "name": "Huawei"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f97843",
+        "name": "BenQ"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f97844",
+        "name": "Biostar"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f97852",
+        "name": "Lenovo"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f97853",
+        "name": "LG"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f97854",
+        "name": "Microsoft"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f97856",
+        "name": "Motorola"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f97855",
+        "name": "Micro-Star"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f97857",
+        "name": "NEC"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f97858",
+        "name": "Nvidia"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f97859",
+        "name": "Oracle"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f9785a",
+        "name": "Panasonic"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f9785c",
+        "name": "Samsung"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f9785d",
+        "name": "Sony"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f9785b",
+        "name": "Razer"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f97846",
+        "name": "Clevo"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f97849",
+        "name": "Foxconn"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f97860",
+        "name": "zSpace"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f9785f",
+        "name": "Xiaomi"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f97851",
+        "name": "Intel"
+    },
+    {
+        "_id": "63e4b423fa998a018052c7d5",
+        "name": "Phanteks"
+    },
+    {
+        "_id": "63e4b423fa998a018052c7d6",
+        "name": "Cooler Master"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f9784b",
+        "name": "Gigabyte"
+    },
+    {
+        "_id": "63e4b423fa998a018052c7d8",
+        "name": "NZXT"
+    },
+    {
+        "_id": "63e4b423fa998a018052c7d9",
+        "name": "Fractal Design"
+    },
+    {
+        "_id": "63e4b423fa998a018052c7db",
+        "name": "Rosewill"
+    },
+    {
+        "_id": "63e4b423fa998a018052c7da",
+        "name": "Lian Li"
+    },
+    {
+        "_id": "63e4b423fa998a018052c7dc",
+        "name": "HEC"
+    },
+    {
+        "_id": "63e4b423fa998a018052c7dd",
+        "name": "Montech"
+    },
+    {
+        "_id": "63e4b423fa998a018052c7de",
+        "name": "Thermaltake"
+    },
+    {
+        "_id": "63e4b423fa998a018052c7df",
+        "name": "Cougar"
+    },
+    {
+        "_id": "63e4b423fa998a018052c7e0",
+        "name": "MSI"
+    },
+    {
+        "_id": "63e4b423fa998a018052c7e2",
+        "name": "be quiet!"
+    },
+    {
+        "_id": "63e4b423fa998a018052c7e3",
+        "name": "Aerocool"
+    },
+    {
+        "_id": "63e4b423fa998a018052c7e1",
+        "name": "Deepcool"
+    },
+    {
+        "_id": "63e4b423fa998a018052c7e4",
+        "name": "MUSETEX"
+    },
+    {
+        "_id": "63e4b423fa998a018052c7e5",
+        "name": "Metallic Gear"
+    },
+    {
+        "_id": "63e4b423fa998a018052c7d7",
+        "name": "Corsair"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f97850",
+        "name": "IBM"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f9785e",
+        "name": "Tyan"
+    },
+    {
+        "_id": "63e4fc4d6e9da9cc5b49a82e",
+        "name": "SeaSonic"
+    },
+    {
+        "_id": "63e4fd386e9da9cc5b49a830",
+        "name": "Thermaltake Toughpower"
+    },
+    {
+        "_id": "63e6744e6e9da9cc5b49a833",
+        "name": "Seagate"
+    },
+    {
+        "_id": "63e676baef96c721ef68351d",
+        "name": "Kingston"
+    },
+    {
+        "_id": "63e676baef96c721ef68351c",
+        "name": "Western Digital"
+    },
+    {
+        "_id": "63e676baef96c721ef68351e",
+        "name": "Crucial"
+    },
+    {
+        "_id": "63e216d4f8c92b75b8f97848",
+        "name": "Epson"
+    },
+    {
+        "_id": "63e676baef96c721ef683520",
+        "name": "Team"
+    },
+    {
+        "_id": "63e676baef96c721ef683521",
+        "name": "ADATA"
+    },
+    {
+        "_id": "63e4fbd96e9da9cc5b49a82d",
+        "name": "EVGA"
+    },
+    {
+        "_id": "63e676baef96c721ef68351f",
+        "name": "Sabrent Rocket"
+    },
+    {
+        "_id": "63e76dbb6e9da9cc5b49a842",
+        "name": "G.Skill"
+    },
+    {
+        "_id": "63e76e656e9da9cc5b49a843",
+        "name": "Patriot"
+    },
+    {
+        "_id": "63e76ef66e9da9cc5b49a844",
+        "name": "OLOy"
+    },
+    {
+        "_id": "63e76f3e6e9da9cc5b49a845",
+        "name": "Silicon Power"
+    },
+    {
+        "_id": "63e78d056e9da9cc5b49a84d",
+        "name": "Zotac"
+    },
+    {
+        "_id": "63e78d3c6e9da9cc5b49a84e",
+        "name": "Sapphire"
+    },
+    {
+        "_id": "63e78dbd6e9da9cc5b49a84f",
+        "name": "PowerColor"
+    },
+    {
+        "_id": "63e78e2c6e9da9cc5b49a850",
+        "name": "XFX Speedster"
+    },
+    {
+        "_id": "63e78e6e6e9da9cc5b49a851",
+        "name": "PNY"
+    }
+]
