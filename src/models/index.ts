@@ -17,7 +17,7 @@ import StorageType from './storageType';
 import PowerSupplier from './powerSupplier';
 import StorageFormFactor from './storageFormFactor';
 
-export {
+export const Models = {
     Ram,
     Cpu,
     Case,
