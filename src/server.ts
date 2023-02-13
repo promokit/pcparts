@@ -7,6 +7,7 @@ async function startServer() {
     if (!config.databaseURL) {
         return console.error('Database link is not provided');
     }
+
     try {
         await connect(config.databaseURL);
         console.info('Connection with DB is established');

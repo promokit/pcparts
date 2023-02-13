@@ -1,14 +1,14 @@
 [
     {
         "_id": "63e36c1d2012168219bd175e",
-        "type": "DDR3"
+        "name": "DDR3"
     },
     {
         "_id": "63e36c1d2012168219bd175f",
-        "type": "DDR4"
+        "name": "DDR4"
     },
     {
         "_id": "63e36c1d2012168219bd1760",
-        "type": "DDR5"
+        "name": "DDR5"
     }
 ]

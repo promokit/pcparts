@@ -12,32 +12,14 @@
         "form_factor": "63e3c01fb959d469f926ed56"
     },
     {
-        "_id": "63e50057d95adebbdc872c0d",
-        "model": "RM (2019)",
-        "brand": "63e4b423fa998a018052c7d7",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
         "_id": "63e50057d95adebbdc872c0e",
         "model": "SuperNOVA GA",
         "brand": "63e4fbd96e9da9cc5b49a82d",
         "form_factor": "63e3c01fb959d469f926ed56"
     },
     {
-        "_id": "63e50057d95adebbdc872c0f",
-        "model": "RM (2019)",
-        "brand": "63e4b423fa998a018052c7d7",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
         "_id": "63e50057d95adebbdc872c10",
         "model": "BR",
-        "brand": "63e4fbd96e9da9cc5b49a82d",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c11",
-        "model": "SuperNOVA GA",
         "brand": "63e4fbd96e9da9cc5b49a82d",
         "form_factor": "63e3c01fb959d469f926ed56"
     },
@@ -72,18 +54,6 @@
         "form_factor": "63e3c01fb959d469f926ed56"
     },
     {
-        "_id": "63e50057d95adebbdc872c1a",
-        "model": "BR",
-        "brand": "63e4fbd96e9da9cc5b49a82d",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c19",
-        "model": "CXM",
-        "brand": "63e4b423fa998a018052c7d7",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
         "_id": "63e50057d95adebbdc872c1b",
         "model": "RMx White (2018)",
         "brand": "63e4b423fa998a018052c7d7",
@@ -108,12 +78,6 @@
         "form_factor": "63e3c01fb959d469f926ed56"
     },
     {
-        "_id": "63e50057d95adebbdc872c1e",
-        "model": "SuperNOVA GA",
-        "brand": "63e4fbd96e9da9cc5b49a82d",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
         "_id": "63e50057d95adebbdc872c22",
         "model": "P-B",
         "brand": "63e216d4f8c92b75b8f9784b",
@@ -132,45 +96,15 @@
         "form_factor": "63e3c01fb959d469f926ed56"
     },
     {
-        "_id": "63e50057d95adebbdc872c23",
-        "model": "BQ",
-        "brand": "63e4fbd96e9da9cc5b49a82d",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c24",
-        "model": "BQ",
-        "brand": "63e4fbd96e9da9cc5b49a82d",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
         "_id": "63e50057d95adebbdc872c12",
         "model": "SF",
         "brand": "63e4b423fa998a018052c7d7",
         "form_factor": "63e4f90f3f59c72b0f6d0631"
     },
     {
-        "_id": "63e50057d95adebbdc872c28",
-        "model": "RMx (2021)",
-        "brand": "63e4b423fa998a018052c7d7",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
         "_id": "63e50057d95adebbdc872c26",
         "model": "ROG Thor 1200P",
         "brand": "63e216d4f8c92b75b8f97842",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c25",
-        "model": "SF",
-        "brand": "63e4b423fa998a018052c7d7",
-        "form_factor": "63e4f90f3f59c72b0f6d0631"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c14",
-        "model": "BQ",
-        "brand": "63e4fbd96e9da9cc5b49a82d",
         "form_factor": "63e3c01fb959d469f926ed56"
     },
     {
@@ -186,12 +120,6 @@
         "form_factor": "63e3c01fb959d469f926ed56"
     },
     {
-        "_id": "63e50057d95adebbdc872c2c",
-        "model": "SuperNOVA GA",
-        "brand": "63e4fbd96e9da9cc5b49a82d",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
         "_id": "63e50057d95adebbdc872c2d",
         "model": "G3",
         "brand": "63e4fbd96e9da9cc5b49a82d",
@@ -204,30 +132,6 @@
         "form_factor": "63e3c01fb959d469f926ed56"
     },
     {
-        "_id": "63e50057d95adebbdc872c2f",
-        "model": "RMx (2018)",
-        "brand": "63e4b423fa998a018052c7d7",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c2e",
-        "model": "RMx (2018)",
-        "brand": "63e4b423fa998a018052c7d7",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c31",
-        "model": "C",
-        "brand": "63e4b423fa998a018052c7d8",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c32",
-        "model": "FOCUS Plus Gold",
-        "brand": "63e4fc4d6e9da9cc5b49a82e",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
         "_id": "63e50057d95adebbdc872c33",
         "model": "MPG A650GF",
         "brand": "63e4b423fa998a018052c7e0",
@@ -236,12 +140,6 @@
     {
         "_id": "63e50057d95adebbdc872c34",
         "model": "TXM Gold",
-        "brand": "63e4b423fa998a018052c7d7",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c35",
-        "model": "CV",
         "brand": "63e4b423fa998a018052c7d7",
         "form_factor": "63e3c01fb959d469f926ed56"
     },
@@ -258,33 +156,15 @@
         "form_factor": "63e3c01fb959d469f926ed56"
     },
     {
-        "_id": "63e50057d95adebbdc872c38",
-        "model": "FOCUS Plus Gold",
-        "brand": "63e4fc4d6e9da9cc5b49a82e",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
         "_id": "63e50057d95adebbdc872c39",
         "model": "CXM (2015)",
         "brand": "63e4b423fa998a018052c7d7",
         "form_factor": "63e3c01fb959d469f926ed56"
     },
     {
-        "_id": "63e50057d95adebbdc872c3a",
-        "model": "SuperNOVA GM",
-        "brand": "63e4fbd96e9da9cc5b49a82d",
-        "form_factor": "63e4f90f3f59c72b0f6d0631"
-    },
-    {
         "_id": "63e50057d95adebbdc872c3b",
         "model": "ROG Strix",
         "brand": "63e216d4f8c92b75b8f97842",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c3c",
-        "model": "HX Platinum",
-        "brand": "63e4b423fa998a018052c7d7",
         "form_factor": "63e3c01fb959d469f926ed56"
     },
     {
@@ -294,51 +174,9 @@
         "form_factor": "63e3c01fb959d469f926ed56"
     },
     {
-        "_id": "63e50057d95adebbdc872c3f",
-        "model": "BR",
-        "brand": "63e4fbd96e9da9cc5b49a82d",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c3d",
-        "model": "B5",
-        "brand": "63e4fbd96e9da9cc5b49a82d",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c40",
-        "model": "P GM",
-        "brand": "63e216d4f8c92b75b8f9784b",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c41",
-        "model": "BR",
-        "brand": "63e4fbd96e9da9cc5b49a82d",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
         "_id": "63e50057d95adebbdc872c42",
         "model": "SuperNOVA GT",
         "brand": "63e4fbd96e9da9cc5b49a82d",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c43",
-        "model": "TXM Gold",
-        "brand": "63e4b423fa998a018052c7d7",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c44",
-        "model": "CXM",
-        "brand": "63e4b423fa998a018052c7d7",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c45",
-        "model": "CV",
-        "brand": "63e4b423fa998a018052c7d7",
         "form_factor": "63e3c01fb959d469f926ed56"
     },
     {
@@ -348,38 +186,8 @@
         "form_factor": "63e3c01fb959d469f926ed56"
     },
     {
-        "_id": "63e50057d95adebbdc872c27",
-        "model": "B5",
-        "brand": "63e4fbd96e9da9cc5b49a82d",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c29",
-        "model": "G3",
-        "brand": "63e4fbd96e9da9cc5b49a82d",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c49",
-        "model": "RMx (2018)",
-        "brand": "63e4b423fa998a018052c7d7",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c4a",
-        "model": "G3",
-        "brand": "63e4fbd96e9da9cc5b49a82d",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
         "_id": "63e50057d95adebbdc872c4b",
         "model": "B5",
-        "brand": "63e4fbd96e9da9cc5b49a82d",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c4c",
-        "model": "G3",
         "brand": "63e4fbd96e9da9cc5b49a82d",
         "form_factor": "63e3c01fb959d469f926ed56"
     },
@@ -396,33 +204,9 @@
         "form_factor": "63e3c01fb959d469f926ed56"
     },
     {
-        "_id": "63e50057d95adebbdc872c4f",
-        "model": "GD (2019)",
-        "brand": "63e4fbd96e9da9cc5b49a82d",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c50",
-        "model": "HX Platinum",
-        "brand": "63e4b423fa998a018052c7d7",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c51",
-        "model": "S12III",
-        "brand": "63e4fc4d6e9da9cc5b49a82e",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
         "_id": "63e50057d95adebbdc872c52",
         "model": "ROG Thor 850",
         "brand": "63e216d4f8c92b75b8f97842",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c53",
-        "model": "TXM Gold",
-        "brand": "63e4b423fa998a018052c7d7",
         "form_factor": "63e3c01fb959d469f926ed56"
     },
     {
@@ -432,22 +216,10 @@
         "form_factor": "63e3c01fb959d469f926ed56"
     },
     {
-        "_id": "63e50057d95adebbdc872c55",
-        "model": "RMx (2021)",
-        "brand": "63e4b423fa998a018052c7d7",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
         "_id": "63e50057d95adebbdc872c56",
         "model": "PRIME Ultra Titanium",
         "brand": "63e4fc4d6e9da9cc5b49a82e",
         "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c57",
-        "model": "SF",
-        "brand": "63e4b423fa998a018052c7d7",
-        "form_factor": "63e4f90f3f59c72b0f6d0631"
     },
     {
         "_id": "63e50057d95adebbdc872c58",
@@ -474,24 +246,6 @@
         "form_factor": "63e3c01fb959d469f926ed56"
     },
     {
-        "_id": "63e50057d95adebbdc872c5c",
-        "model": "RMx (2018)",
-        "brand": "63e4b423fa998a018052c7d7",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c5b",
-        "model": "SuperNOVA GM",
-        "brand": "63e4fbd96e9da9cc5b49a82d",
-        "form_factor": "63e4f90f3f59c72b0f6d0631"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c5e",
-        "model": "ROG Strix",
-        "brand": "63e216d4f8c92b75b8f97842",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
         "_id": "63e50057d95adebbdc872c5f",
         "model": "ROG STRIX G",
         "brand": "63e216d4f8c92b75b8f97842",
@@ -504,57 +258,15 @@
         "form_factor": "63e3c01fb959d469f926ed56"
     },
     {
-        "_id": "63e50057d95adebbdc872c60",
-        "model": "C",
-        "brand": "63e4b423fa998a018052c7d8",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
         "_id": "63e50057d95adebbdc872c62",
         "model": "Smart",
         "brand": "63e4fd386e9da9cc5b49a830",
         "form_factor": "63e3c01fb959d469f926ed56"
     },
     {
-        "_id": "63e50057d95adebbdc872c63",
-        "model": "CXF",
-        "brand": "63e4b423fa998a018052c7d7",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c64",
-        "model": "FOCUS Plus Platinum",
-        "brand": "63e4fc4d6e9da9cc5b49a82e",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c65",
-        "model": "SuperNOVA GM",
-        "brand": "63e4fbd96e9da9cc5b49a82d",
-        "form_factor": "63e4f90f3f59c72b0f6d0631"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c68",
-        "model": "S12III",
-        "brand": "63e4fc4d6e9da9cc5b49a82e",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c66",
-        "model": "FOCUS Plus Gold",
-        "brand": "63e4fc4d6e9da9cc5b49a82e",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
         "_id": "63e50057d95adebbdc872c67",
         "model": "Integrator",
         "brand": "63e4b423fa998a018052c7e3",
-        "form_factor": "63e3c01fb959d469f926ed56"
-    },
-    {
-        "_id": "63e50057d95adebbdc872c47",
-        "model": "GD (2019)",
-        "brand": "63e4fbd96e9da9cc5b49a82d",
         "form_factor": "63e3c01fb959d469f926ed56"
     },
     {

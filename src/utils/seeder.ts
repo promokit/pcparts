@@ -1,26 +1,35 @@
 import fs from 'fs';
 import mongoose from 'mongoose';
-import {
+import config from '../config';
+import { Models } from '../models';
+
+interface FilesSet {
+    file: string;
+}
+interface CollectionSet<T> extends FilesSet {
+    model: T;
+}
+
+const {
+    Cpu,
+    Ram,
+    Case,
     Brand,
-    Chipset,
     Socket,
+    Graphic,
     RamType,
+    Chipset,
+    Storage,
     RamSpeed,
+    CpuGraphic,
     GraphicBus,
     FormFactor,
     StoragePort,
     StorageType,
-    StorageFormFactor,
-    Case,
-    PowerSupplier,
-    Storage,
-    Ram,
-    Graphic,
-    CpuGraphic,
-    Cpu,
     Motherboard,
-} from '../models';
-import config from '../config';
+    PowerSupplier,
+    StorageFormFactor,
+} = Models;
 
 if (!config.databaseURL) {
     throw new Error('Database link is not provided');
@@ -29,68 +38,93 @@ if (!config.databaseURL) {
 // the `strictQuery` option will be switched back to `false` by default in Mongoose 7
 mongoose.set('strictQuery', false);
 
-const seedsPath = `${process.cwd()}/db/seeds/`;
-const readFile = (file: string) =>
-    JSON.parse(fs.readFileSync(`${seedsPath}/${file}.json`, 'utf-8'));
-
-// READ JSON FILE
-const rams = readFile('rams');
-const cpus = readFile('cpus');
-const cases = readFile('cases');
-const brands = readFile('brands');
-const sockets = readFile('sockets');
-const storages = readFile('storages');
-const chipsets = readFile('chipsets');
-const ramTypes = readFile('ramtypes');
-const ramSpeed = readFile('ramspeeds');
-const graphics = readFile('graphics');
-const cpugraphics = readFile('cpugraphics');
-const graphicBus = readFile('graphicbuses');
-const formfactors = readFile('formfactors');
-const motherboards = readFile('motherboards');
-const storageports = readFile('storageports');
-const storagetypess = readFile('storagetypes');
-const powersuppliers = readFile('powersuppliers');
-const storageformfactors = readFile('storageformfactors');
-
-const seedData = async () => {
-    try {
-        // await Cpu.create(cpus);
-        await Motherboard.create(motherboards);
-        // await Ram.create(ram);
-        // await Graphic.create(graphics);
-        // await CpuGraphic.create(cpugraphics);
-        // await Case.create(cases);
-        // await Brand.create(brands);
-        // await Socket.create(sockets);
-        // await Chipset.create(chipsets);
-        // await RamType.create(ramTypes);
-        // await Storage.create(storages);
-        // await RamSpeed.create(ramSpeed);
-        // await GraphicBus.create(graphicBus);
-        // await FormFactor.create(formfactors);
-        // await StoragePort.create(storageports);
-        // await StorageType.create(storagetypess);
-        // await PowerSupplier.create(powersuppliers);
-        // await StorageFormFactor.create(storageformfactors);
-        console.log('Data successfully seeded!');
-    } catch (err) {
-        console.log(err);
-    }
+const readFile = (file: string) => {
+    return JSON.parse(
+        fs.readFileSync(`${process.cwd()}/db/seeds/${file}.json`, 'utf-8')
+    );
 };
 
-const deleteData = async () => {
-    try {
-        // await Brand.deleteMany({});
-        // await Case.deleteMany({});
-        // await Socket.deleteMany({});
-        // await PowerSupplier.deleteMany({});
-        // await FormFactor.deleteMany({});
-        await Motherboard.deleteMany({});
-        console.log('Data successfully deleted!');
-    } catch (err) {
-        console.log(err);
-    }
+// TODO: fix any type
+const collectionsMap: CollectionSet<any>[] = [
+    { model: Brand, file: 'brands' },
+    { model: FormFactor, file: 'formfactors' },
+    { model: StorageType, file: 'storagetypes' },
+    { model: StoragePort, file: 'storageports' },
+    { model: StorageFormFactor, file: 'storageformfactors' },
+    { model: GraphicBus, file: 'graphicbuses' },
+    { model: RamType, file: 'ramtypes' },
+    { model: RamSpeed, file: 'ramspeeds' },
+    { model: Socket, file: 'sockets' },
+    { model: CpuGraphic, file: 'cpugraphics' },
+    { model: Chipset, file: 'chipsets' },
+    { model: Graphic, file: 'graphics' },
+    { model: PowerSupplier, file: 'powersuppliers' },
+    { model: Case, file: 'cases' },
+    { model: Ram, file: 'rams' },
+    { model: Cpu, file: 'cpus' },
+    { model: Storage, file: 'storages' },
+    { model: Motherboard, file: 'motherboards' },
+];
+
+const seedData = async (collection: string | null) => {
+    const seedOne = async (sourceFile: string) => {
+        const seed = collectionsMap.find(
+            ({ file }: FilesSet) => file === sourceFile
+        );
+        const data = readFile(sourceFile);
+        seed && data && (await seed.model.create(data));
+    };
+
+    // need to make initial seed step by stem because of some mongodb timeouts
+    // TODO: find what mongodb settings to adjust to make all requests in one go
+    const seedAll = async () => {
+        await Brand.create(readFile('brands'));
+        await FormFactor.create(readFile('formfactors'));
+        await StorageType.create(readFile('storagetypes'));
+        await StoragePort.create(readFile('storageports'));
+        await StorageFormFactor.create(readFile('storageformfactors'));
+        await GraphicBus.create(readFile('graphicbuses'));
+        await RamType.create(readFile('ramtypes'));
+        await RamSpeed.create(readFile('ramspeeds'));
+        await Socket.create(readFile('sockets'));
+        await CpuGraphic.create(readFile('cpugraphics'));
+        await Chipset.create(readFile('chipsets'));
+        await Graphic.create(readFile('graphics'));
+        await PowerSupplier.create(readFile('powersuppliers'));
+        await Case.create(readFile('cases'));
+        await Ram.create(readFile('rams'));
+        await Cpu.create(readFile('cpus'));
+        await Storage.create(readFile('storages'));
+        await Motherboard.create(readFile('motherboards'));
+    };
+
+    collection ? await seedOne(collection) : await seedAll();
+
+    return console.log(
+        `${collection ? collection : 'All'} data successfully seeded!`
+    );
+};
+
+const deleteData = async (collection: string | null) => {
+    const deleteOne = async (collection: string) => {
+        const seed = collectionsMap.find(
+            ({ file }: FilesSet) => file === collection
+        );
+        seed && (await seed.model.deleteMany({}));
+    };
+
+    const deleteAll = async () =>
+        await Promise.all(
+            collectionsMap.map(async ({ model }) => {
+                await model.deleteMany({});
+            })
+        );
+
+    collection ? await deleteOne(collection) : await deleteAll();
+
+    return console.log(
+        `${collection ? collection : 'All'} data successfully deleted!`
+    );
 };
 
 (async function () {
@@ -99,18 +133,24 @@ const deleteData = async () => {
     }
 
     try {
-        mongoose.connect(config.databaseURL);
+        await mongoose.connect(config.databaseURL);
         console.info('Connection with DB is established');
     } catch (error: any) {
         throw new Error(error);
     }
 
     const action = process.argv[2];
+    const collection = process.argv[3] || null;
+
     const isSeed = action === '--seed';
     const isDelete = action === '--delete';
 
-    isSeed && (await seedData());
-    isDelete && (await deleteData());
+    try {
+        isSeed && (await seedData(collection));
+        isDelete && (await deleteData(collection));
+    } catch (err) {
+        console.log(err);
+    }
 
     process.exit();
 })();
