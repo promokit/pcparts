@@ -1,6 +1,9 @@
 import fs from 'fs';
 import mongoose from 'mongoose';
+
 import config from '../config';
+import ApiError from '../abstractions/ApiError';
+import { StatusCodes } from '../models/enums/status_codes';
 import { Models } from '../models';
 
 interface FilesSet {
@@ -75,7 +78,7 @@ const seedData = async (collection: string | null) => {
         seed && data && (await seed.model.create(data));
     };
 
-    // need to make initial seed step by stem because of some mongodb timeouts
+    // need to make initial seed step by step because of some mongodb timeouts
     // TODO: find what mongodb settings to adjust to make all requests in one go
     const seedAll = async () => {
         await Brand.create(readFile('brands'));
@@ -136,7 +139,7 @@ const deleteData = async (collection: string | null) => {
         await mongoose.connect(config.databaseURL);
         console.info('Connection with DB is established');
     } catch (error: any) {
-        throw new Error(error);
+        throw new ApiError(error, StatusCodes.INTERNAL_SERVER_ERROR);
     }
 
     const action = process.argv[2];
