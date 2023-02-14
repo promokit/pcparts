@@ -1,0 +1,434 @@
+[
+    {
+        "_id": "63e4bb7f8d664fbba36afd03",
+        "model": "H510",
+        "brand": "63e4b423fa998a018052c7d8",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd04",
+        "model": "4000D Airflow",
+        "brand": "63e4b423fa998a018052c7d7",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd05",
+        "model": "Eclipse P300A Mesh",
+        "brand": "63e4b423fa998a018052c7d5",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd08",
+        "model": "Eclipse P400A Digital",
+        "brand": "63e4b423fa998a018052c7d5",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd0a",
+        "model": "Lancool II Mesh",
+        "brand": "63e4b423fa998a018052c7da",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd09",
+        "model": "275R Airflow",
+        "brand": "63e4b423fa998a018052c7d7",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd0d",
+        "model": "iCUE 4000X RGB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd0e",
+        "model": "H510 Elite",
+        "brand": "63e4b423fa998a018052c7d8",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd11",
+        "model": "Eclipse P360A",
+        "brand": "63e4b423fa998a018052c7d5",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd12",
+        "model": "5000D AIRFLOW",
+        "brand": "63e4b423fa998a018052c7d7",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd10",
+        "model": "MasterBox Q300L",
+        "brand": "63e4b423fa998a018052c7d6",
+        "form_factor": "63e3c01fb959d469f926ed57"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd14",
+        "model": "O11 Dynamic Mini",
+        "brand": "63e4b423fa998a018052c7da",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd15",
+        "model": "Neo Silent",
+        "brand": "63e4b423fa998a018052c7e5",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd18",
+        "model": "O11D XL-W",
+        "brand": "63e4b423fa998a018052c7da",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd1a",
+        "model": "MasterBox MB311L ARGB",
+        "brand": "63e4b423fa998a018052c7d6",
+        "form_factor": "63e3c01fb959d469f926ed57"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd1b",
+        "model": "Phantom",
+        "brand": "63e4b423fa998a018052c7e4",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd1c",
+        "model": "iCUE 220T RGB Airflow",
+        "brand": "63e4b423fa998a018052c7d7",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd1d",
+        "model": "MasterBox NR200",
+        "brand": "63e4b423fa998a018052c7d6",
+        "form_factor": "63e3c01fb959d469f926ed58"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd1e",
+        "model": "ROG Strix Helios",
+        "brand": "63e216d4f8c92b75b8f97842",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd1f",
+        "model": "LANCOOL 215",
+        "brand": "63e4b423fa998a018052c7da",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd20",
+        "model": "Pure Base 500DX",
+        "brand": "63e4b423fa998a018052c7e2",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd22",
+        "model": "H510i",
+        "brand": "63e4b423fa998a018052c7d8",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd21",
+        "model": "NightHawk Duo",
+        "brand": "63e4b423fa998a018052c7e3",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd23",
+        "model": "iCUE 5000X RGB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd27",
+        "model": "MasterBox TD500 Mesh White",
+        "brand": "63e4b423fa998a018052c7d6",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd28",
+        "model": "O11 Dynamic Mini Snow Edition",
+        "brand": "63e4b423fa998a018052c7da",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd29",
+        "model": "Eclipse P500A D-RGB",
+        "brand": "63e4b423fa998a018052c7d5",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd2a",
+        "model": "MasterBox NR400 (w/ODD)",
+        "brand": "63e4b423fa998a018052c7d6",
+        "form_factor": "63e3c01fb959d469f926ed57"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd2d",
+        "model": "SPEC-DELTA RGB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd2c",
+        "model": "O11D XL-X",
+        "brand": "63e4b423fa998a018052c7da",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd2f",
+        "model": "FBM-01",
+        "brand": "63e4b423fa998a018052c7db",
+        "form_factor": "63e3c01fb959d469f926ed57"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd31",
+        "model": "H710i",
+        "brand": "63e4b423fa998a018052c7d8",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd30",
+        "model": "MATREXX 30",
+        "brand": "63e4b423fa998a018052c7e1",
+        "form_factor": "63e3c01fb959d469f926ed57"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd32",
+        "model": "LANCOOL 205M",
+        "brand": "63e4b423fa998a018052c7da",
+        "form_factor": "63e3c01fb959d469f926ed57"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd34",
+        "model": "PC-O11 Dynamic Razer",
+        "brand": "63e4b423fa998a018052c7da",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd35",
+        "model": "MasterBox NR200P",
+        "brand": "63e4b423fa998a018052c7d6",
+        "form_factor": "63e3c01fb959d469f926ed58"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd36",
+        "model": "MasterBox TD500 Mesh",
+        "brand": "63e4b423fa998a018052c7d6",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd37",
+        "model": "Versa H18",
+        "brand": "63e4b423fa998a018052c7de",
+        "form_factor": "63e3c01fb959d469f926ed57"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd38",
+        "model": "1000D",
+        "brand": "63e4b423fa998a018052c7d7",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd39",
+        "model": "Enthoo Pro",
+        "brand": "63e4b423fa998a018052c7d5",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd3a",
+        "model": "H210",
+        "brand": "63e4b423fa998a018052c7d8",
+        "form_factor": "63e3c01fb959d469f926ed58"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd3b",
+        "model": "Cylon",
+        "brand": "63e4b423fa998a018052c7e3",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd3e",
+        "model": "Meshify 2",
+        "brand": "63e4b423fa998a018052c7d9",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd3d",
+        "model": "Crystal 680X RGB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd3f",
+        "model": "Meshify C Mini",
+        "brand": "63e4b423fa998a018052c7d9",
+        "form_factor": "63e3c01fb959d469f926ed57"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd40",
+        "model": "Carbide 175R RGB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd41",
+        "model": "FBM-X1",
+        "brand": "63e4b423fa998a018052c7db",
+        "form_factor": "63e3c01fb959d469f926ed57"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd43",
+        "model": "H710",
+        "brand": "63e4b423fa998a018052c7d8",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd45",
+        "model": "iCUE 465X RGB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd25",
+        "model": "4000D",
+        "brand": "63e4b423fa998a018052c7d7",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd24",
+        "model": "MAG FORGE 100R",
+        "brand": "63e4b423fa998a018052c7e0",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd4a",
+        "model": "Eclipse P400A",
+        "brand": "63e4b423fa998a018052c7d5",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd4f",
+        "model": "Core W200",
+        "brand": "63e4b423fa998a018052c7de",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd4e",
+        "model": "Eclipse P300",
+        "brand": "63e4b423fa998a018052c7d5",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd50",
+        "model": "MasterBox NR600 (w/o ODD)",
+        "brand": "63e4b423fa998a018052c7d6",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd51",
+        "model": "Focus G",
+        "brand": "63e4b423fa998a018052c7d9",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd52",
+        "model": "LANCOOL II-X",
+        "brand": "63e4b423fa998a018052c7da",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd53",
+        "model": "MATREXX 50 ADD-RGB 4F",
+        "brand": "63e4b423fa998a018052c7e1",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd54",
+        "model": "Meshify C",
+        "brand": "63e4b423fa998a018052c7d9",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd55",
+        "model": "MPG GUNGNIR 110R",
+        "brand": "63e4b423fa998a018052c7e0",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd56",
+        "model": "MX330-X",
+        "brand": "63e4b423fa998a018052c7df",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd58",
+        "model": "MasterBox Q500L",
+        "brand": "63e4b423fa998a018052c7d6",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd59",
+        "model": "MasterBox MB320L ARGB",
+        "brand": "63e4b423fa998a018052c7d6",
+        "form_factor": "63e3c01fb959d469f926ed57"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd5a",
+        "model": "S100 Snow Edition",
+        "brand": "63e4b423fa998a018052c7de",
+        "form_factor": "63e3c01fb959d469f926ed57"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd5b",
+        "model": "Enthoo Pro Tempered Glass",
+        "brand": "63e4b423fa998a018052c7d5",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd5c",
+        "model": "X1",
+        "brand": "63e4b423fa998a018052c7dd",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd5f",
+        "model": "HX300",
+        "brand": "63e4b423fa998a018052c7dc",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd5d",
+        "model": "Meshify 2 Compact TG Light Tint",
+        "brand": "63e4b423fa998a018052c7d9",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd60",
+        "model": "Define R5",
+        "brand": "63e4b423fa998a018052c7d9",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd61",
+        "model": "SRM-01B",
+        "brand": "63e4b423fa998a018052c7db",
+        "form_factor": "63e3c01fb959d469f926ed57"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd62",
+        "model": "Obsidian 500D RGB SE",
+        "brand": "63e4b423fa998a018052c7d7",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e4bb7f8d664fbba36afd65",
+        "model": "Eclipse P500A",
+        "brand": "63e4b423fa998a018052c7d5",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    }
+]

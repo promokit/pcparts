@@ -1,0 +1,278 @@
+[
+    {
+        "_id": "63e50057d95adebbdc872c0b",
+        "model": "RM (2019)",
+        "brand": "63e4b423fa998a018052c7d7",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c0c",
+        "model": "BQ",
+        "brand": "63e4fbd96e9da9cc5b49a82d",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c0e",
+        "model": "SuperNOVA GA",
+        "brand": "63e4fbd96e9da9cc5b49a82d",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c10",
+        "model": "BR",
+        "brand": "63e4fbd96e9da9cc5b49a82d",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c13",
+        "model": "AXi",
+        "brand": "63e4b423fa998a018052c7d7",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c15",
+        "model": "HX Platinum",
+        "brand": "63e4b423fa998a018052c7d7",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c16",
+        "model": "RMx (2018)",
+        "brand": "63e4b423fa998a018052c7d7",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c17",
+        "model": "CXM",
+        "brand": "63e4b423fa998a018052c7d7",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c18",
+        "model": "P GM",
+        "brand": "63e216d4f8c92b75b8f9784b",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c1b",
+        "model": "RMx White (2018)",
+        "brand": "63e4b423fa998a018052c7d7",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c1c",
+        "model": "CV",
+        "brand": "63e4b423fa998a018052c7d7",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c1d",
+        "model": "SuperNOVA GM",
+        "brand": "63e4fbd96e9da9cc5b49a82d",
+        "form_factor": "63e4f90f3f59c72b0f6d0631"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c1f",
+        "model": "RMx (2021)",
+        "brand": "63e4b423fa998a018052c7d7",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c22",
+        "model": "P-B",
+        "brand": "63e216d4f8c92b75b8f9784b",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c21",
+        "model": "FOCUS Plus Gold",
+        "brand": "63e4fc4d6e9da9cc5b49a82e",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c20",
+        "model": "C",
+        "brand": "63e4b423fa998a018052c7d8",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c12",
+        "model": "SF",
+        "brand": "63e4b423fa998a018052c7d7",
+        "form_factor": "63e4f90f3f59c72b0f6d0631"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c26",
+        "model": "ROG Thor 1200P",
+        "brand": "63e216d4f8c92b75b8f97842",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c2a",
+        "model": "GD (2019)",
+        "brand": "63e4fbd96e9da9cc5b49a82d",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c2b",
+        "model": "DPS G RGB Titanium",
+        "brand": "63e4fd386e9da9cc5b49a830",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c2d",
+        "model": "G3",
+        "brand": "63e4fbd96e9da9cc5b49a82d",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c30",
+        "model": "RMx",
+        "brand": "63e4b423fa998a018052c7d7",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c33",
+        "model": "MPG A650GF",
+        "brand": "63e4b423fa998a018052c7e0",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c34",
+        "model": "TXM Gold",
+        "brand": "63e4b423fa998a018052c7d7",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c37",
+        "model": "210-GQ-0650-V1",
+        "brand": "63e4fbd96e9da9cc5b49a82d",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c36",
+        "model": "100-W1-0500-KR",
+        "brand": "63e4fbd96e9da9cc5b49a82d",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c39",
+        "model": "CXM (2015)",
+        "brand": "63e4b423fa998a018052c7d7",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c3b",
+        "model": "ROG Strix",
+        "brand": "63e216d4f8c92b75b8f97842",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c3e",
+        "model": "S12III",
+        "brand": "63e4fc4d6e9da9cc5b49a82e",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c42",
+        "model": "SuperNOVA GT",
+        "brand": "63e4fbd96e9da9cc5b49a82d",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c46",
+        "model": "G5",
+        "brand": "63e4fbd96e9da9cc5b49a82d",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c4b",
+        "model": "B5",
+        "brand": "63e4fbd96e9da9cc5b49a82d",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c4e",
+        "model": "CXF",
+        "brand": "63e4b423fa998a018052c7d7",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c4d",
+        "model": "FOCUS Plus Platinum",
+        "brand": "63e4fc4d6e9da9cc5b49a82e",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c52",
+        "model": "ROG Thor 850",
+        "brand": "63e216d4f8c92b75b8f97842",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c54",
+        "model": "100-N1-0400-L1",
+        "brand": "63e4fbd96e9da9cc5b49a82d",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c56",
+        "model": "PRIME Ultra Titanium",
+        "brand": "63e4fc4d6e9da9cc5b49a82e",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c58",
+        "model": "GQ",
+        "brand": "63e4fbd96e9da9cc5b49a82d",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c59",
+        "model": "100-W1-0600-K1",
+        "brand": "63e4fbd96e9da9cc5b49a82d",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c5a",
+        "model": "Dark Power Pro 12",
+        "brand": "63e4b423fa998a018052c7e2",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c5d",
+        "model": "MPG A-GF",
+        "brand": "63e4b423fa998a018052c7e0",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c5f",
+        "model": "ROG STRIX G",
+        "brand": "63e216d4f8c92b75b8f97842",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c61",
+        "model": "Straight Power 11",
+        "brand": "63e4b423fa998a018052c7e2",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c62",
+        "model": "Smart",
+        "brand": "63e4fd386e9da9cc5b49a830",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c67",
+        "model": "Integrator",
+        "brand": "63e4b423fa998a018052c7e3",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    },
+    {
+        "_id": "63e50057d95adebbdc872c48",
+        "model": "BA",
+        "brand": "63e4fbd96e9da9cc5b49a82d",
+        "form_factor": "63e3c01fb959d469f926ed56"
+    }
+]

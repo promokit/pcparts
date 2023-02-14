@@ -1,0 +1,5432 @@
+[
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z RGB 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V Series 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z Neo 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "T-FORCE VULCAN Z 16 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Ripjaws V 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance LPX 128 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e76a7b6e9da9cc5b49a840",
+        "modules": 8,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e76266594b6a35f9da2541",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "13.333 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 32 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Aegis 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance LPX 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z RGB 128 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86efe",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "9 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z RGB 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "HyperX Fury 16 GB",
+        "brand": "63e676baef96c721ef68351d",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z RGB 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V Series 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Aegis 8 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z Neo 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance LPX 8 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 4,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix RGB 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "T-Force Delta RGB 16 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 32 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "HyperX Fury 8 GB",
+        "brand": "63e676baef96c721ef68351d",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f0b",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "12.003 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 64 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 32,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "15"
+    },
+    {
+        "model": "XPG SPECTRIX D60G 16 GB",
+        "brand": "63e676baef96c721ef683521",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z Royal 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.556 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "MD4U083016BGDA 16 GB",
+        "brand": "63e76ef66e9da9cc5b49a844",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "MD4U083216BJDA 16 GB",
+        "brand": "63e76ef66e9da9cc5b49a844",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "T-FORCE VULCAN Z 16 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z Neo 64 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "HyperX Fury RGB 16 GB",
+        "brand": "63e676baef96c721ef68351d",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "XPOWER Turbine 16 GB",
+        "brand": "63e76f3e6e9da9cc5b49a845",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix MAX 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e7795f6e9da9cc5b49a848",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "7.451 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "Trident Z RGB 64 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z RGB 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e76266594b6a35f9da2540",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175e",
+        "first_word_latency": "11.25 ns",
+        "cas_latency": "9"
+    },
+    {
+        "model": "Viper Steel 16 GB",
+        "brand": "63e76e656e9da9cc5b49a843",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86ef6",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.636 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "Trident Z Royal 128 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86efe",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "9 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z RGB 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "SP016GXLZU320BDAJ5 16 GB",
+        "brand": "63e76f3e6e9da9cc5b49a845",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance LPX 8 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e76266594b6a35f9da2541",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "13.333 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix RGB 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "T-Force Delta RGB 16 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 64 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "T-Force Delta RGB 32 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Dominator Platinum RGB 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z Neo 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "HyperX Fury 16 GB",
+        "brand": "63e676baef96c721ef68351d",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f0b",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "12.003 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V Series 8 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 4,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Viper Steel 16 GB",
+        "brand": "63e76e656e9da9cc5b49a843",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Signature Premium 8 GB",
+        "brand": "63e76e656e9da9cc5b49a843",
+        "capacity": 4,
+        "speed": "63e3709adb17322b73d86f0b",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "14.254 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "Aegis 4 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 4,
+        "speed": "63e76266594b6a35f9da2541",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "12.5 ns",
+        "cas_latency": "15"
+    },
+    {
+        "model": "Vengeance RGB Pro SL 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "T-Force Delta RGB 16 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance RGB Pro 64 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "CT64G4LFQ424A 64 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 64,
+        "speed": "63e76266594b6a35f9da2541",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "14.167 ns",
+        "cas_latency": "17"
+    },
+    {
+        "model": "Trident Z RGB 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "15"
+    },
+    {
+        "model": "Vengeance LPX 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z RGB 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.556 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "15"
+    },
+    {
+        "model": "Ripjaws V 64 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Elite 8 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "13.75 ns",
+        "cas_latency": "22"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "T-FORCE VULCAN Z 32 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Ballistix 32 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z Royal 256 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 8,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z RGB 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance LPX 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws Series 8 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 4,
+        "speed": "63e76266594b6a35f9da2540",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175e",
+        "first_word_latency": "11.25 ns",
+        "cas_latency": "9"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Viper Steel 8 GB",
+        "brand": "63e76e656e9da9cc5b49a843",
+        "capacity": 4,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix RGB 32 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V Series 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "AORUS RGB 16 GB",
+        "brand": "63e216d4f8c92b75b8f9784b",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f0b",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "12.003 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro SL 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z Neo 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z RGB 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V Series 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z Neo 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "T-FORCE VULCAN Z 16 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Ripjaws V 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance LPX 128 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e76a7b6e9da9cc5b49a840",
+        "modules": 8,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e76266594b6a35f9da2541",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "13.333 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 32 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Aegis 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance LPX 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z RGB 128 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86efe",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "9 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z RGB 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "HyperX Fury 16 GB",
+        "brand": "63e676baef96c721ef68351d",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z RGB 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V Series 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Aegis 8 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z Neo 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance LPX 8 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 4,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix RGB 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "T-Force Delta RGB 16 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 32 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "HyperX Fury 8 GB",
+        "brand": "63e676baef96c721ef68351d",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f0b",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "12.003 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 64 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 32,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "15"
+    },
+    {
+        "model": "XPG SPECTRIX D60G 16 GB",
+        "brand": "63e676baef96c721ef683521",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z Royal 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.556 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "MD4U083016BGDA 16 GB",
+        "brand": "63e76ef66e9da9cc5b49a844",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "MD4U083216BJDA 16 GB",
+        "brand": "63e76ef66e9da9cc5b49a844",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "T-FORCE VULCAN Z 16 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z Neo 64 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "HyperX Fury RGB 16 GB",
+        "brand": "63e676baef96c721ef68351d",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "XPOWER Turbine 16 GB",
+        "brand": "63e76f3e6e9da9cc5b49a845",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix MAX 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e7795f6e9da9cc5b49a848",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "7.451 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "Trident Z RGB 64 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z RGB 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e76266594b6a35f9da2540",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175e",
+        "first_word_latency": "11.25 ns",
+        "cas_latency": "9"
+    },
+    {
+        "model": "Viper Steel 16 GB",
+        "brand": "63e76e656e9da9cc5b49a843",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86ef6",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.636 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "Trident Z Royal 128 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86efe",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "9 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z RGB 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "SP016GXLZU320BDAJ5 16 GB",
+        "brand": "63e76f3e6e9da9cc5b49a845",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance LPX 8 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e76266594b6a35f9da2541",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "13.333 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix RGB 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "T-Force Delta RGB 16 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 64 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "T-Force Delta RGB 32 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Dominator Platinum RGB 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z Neo 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "HyperX Fury 16 GB",
+        "brand": "63e676baef96c721ef68351d",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f0b",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "12.003 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V Series 8 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 4,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Viper Steel 16 GB",
+        "brand": "63e76e656e9da9cc5b49a843",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Signature Premium 8 GB",
+        "brand": "63e76e656e9da9cc5b49a843",
+        "capacity": 4,
+        "speed": "63e3709adb17322b73d86f0b",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "14.254 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "Aegis 4 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 4,
+        "speed": "63e76266594b6a35f9da2541",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "12.5 ns",
+        "cas_latency": "15"
+    },
+    {
+        "model": "Vengeance RGB Pro SL 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "T-Force Delta RGB 16 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance RGB Pro 64 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "CT64G4LFQ424A 64 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 64,
+        "speed": "63e76266594b6a35f9da2541",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "14.167 ns",
+        "cas_latency": "17"
+    },
+    {
+        "model": "Trident Z RGB 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "15"
+    },
+    {
+        "model": "Vengeance LPX 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z RGB 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.556 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "15"
+    },
+    {
+        "model": "Ripjaws V 64 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Elite 8 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "13.75 ns",
+        "cas_latency": "22"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "T-FORCE VULCAN Z 32 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Ballistix 32 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z Royal 256 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 8,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z RGB 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance LPX 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws Series 8 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 4,
+        "speed": "63e76266594b6a35f9da2540",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175e",
+        "first_word_latency": "11.25 ns",
+        "cas_latency": "9"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Viper Steel 8 GB",
+        "brand": "63e76e656e9da9cc5b49a843",
+        "capacity": 4,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix RGB 32 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V Series 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "AORUS RGB 16 GB",
+        "brand": "63e216d4f8c92b75b8f9784b",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f0b",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "12.003 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro SL 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z Neo 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z RGB 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V Series 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z Neo 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "T-FORCE VULCAN Z 16 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Ripjaws V 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance LPX 128 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e76a7b6e9da9cc5b49a840",
+        "modules": 8,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e76266594b6a35f9da2541",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "13.333 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 32 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Aegis 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance LPX 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z RGB 128 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86efe",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "9 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z RGB 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "HyperX Fury 16 GB",
+        "brand": "63e676baef96c721ef68351d",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z RGB 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V Series 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Aegis 8 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z Neo 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance LPX 8 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 4,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix RGB 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "T-Force Delta RGB 16 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 32 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "HyperX Fury 8 GB",
+        "brand": "63e676baef96c721ef68351d",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f0b",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "12.003 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 64 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 32,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "15"
+    },
+    {
+        "model": "XPG SPECTRIX D60G 16 GB",
+        "brand": "63e676baef96c721ef683521",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z Royal 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.556 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "MD4U083016BGDA 16 GB",
+        "brand": "63e76ef66e9da9cc5b49a844",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "MD4U083216BJDA 16 GB",
+        "brand": "63e76ef66e9da9cc5b49a844",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "T-FORCE VULCAN Z 16 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z Neo 64 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "HyperX Fury RGB 16 GB",
+        "brand": "63e676baef96c721ef68351d",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "XPOWER Turbine 16 GB",
+        "brand": "63e76f3e6e9da9cc5b49a845",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix MAX 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e7795f6e9da9cc5b49a848",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "7.451 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "Trident Z RGB 64 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z RGB 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e76266594b6a35f9da2540",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175e",
+        "first_word_latency": "11.25 ns",
+        "cas_latency": "9"
+    },
+    {
+        "model": "Viper Steel 16 GB",
+        "brand": "63e76e656e9da9cc5b49a843",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86ef6",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.636 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "Trident Z Royal 128 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86efe",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "9 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z RGB 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "SP016GXLZU320BDAJ5 16 GB",
+        "brand": "63e76f3e6e9da9cc5b49a845",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance LPX 8 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e76266594b6a35f9da2541",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "13.333 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix RGB 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "T-Force Delta RGB 16 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 64 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "T-Force Delta RGB 32 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Dominator Platinum RGB 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z Neo 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "HyperX Fury 16 GB",
+        "brand": "63e676baef96c721ef68351d",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f0b",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "12.003 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V Series 8 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 4,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Viper Steel 16 GB",
+        "brand": "63e76e656e9da9cc5b49a843",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Signature Premium 8 GB",
+        "brand": "63e76e656e9da9cc5b49a843",
+        "capacity": 4,
+        "speed": "63e3709adb17322b73d86f0b",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "14.254 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "Aegis 4 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 4,
+        "speed": "63e76266594b6a35f9da2541",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "12.5 ns",
+        "cas_latency": "15"
+    },
+    {
+        "model": "Vengeance RGB Pro SL 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "T-Force Delta RGB 16 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance RGB Pro 64 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "CT64G4LFQ424A 64 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 64,
+        "speed": "63e76266594b6a35f9da2541",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "14.167 ns",
+        "cas_latency": "17"
+    },
+    {
+        "model": "Trident Z RGB 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "15"
+    },
+    {
+        "model": "Vengeance LPX 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z RGB 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.556 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "15"
+    },
+    {
+        "model": "Ripjaws V 64 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Elite 8 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "13.75 ns",
+        "cas_latency": "22"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "T-FORCE VULCAN Z 32 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Ballistix 32 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z Royal 256 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 8,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z RGB 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance LPX 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws Series 8 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 4,
+        "speed": "63e76266594b6a35f9da2540",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175e",
+        "first_word_latency": "11.25 ns",
+        "cas_latency": "9"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Viper Steel 8 GB",
+        "brand": "63e76e656e9da9cc5b49a843",
+        "capacity": 4,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix RGB 32 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V Series 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "AORUS RGB 16 GB",
+        "brand": "63e216d4f8c92b75b8f9784b",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f0b",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "12.003 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro SL 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z Neo 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z RGB 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V Series 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z Neo 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "T-FORCE VULCAN Z 16 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Ripjaws V 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance LPX 128 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e76a7b6e9da9cc5b49a840",
+        "modules": 8,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e76266594b6a35f9da2541",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "13.333 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 32 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Aegis 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance LPX 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z RGB 128 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86efe",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "9 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z RGB 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "HyperX Fury 16 GB",
+        "brand": "63e676baef96c721ef68351d",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z RGB 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V Series 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Aegis 8 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z Neo 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance LPX 8 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 4,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix RGB 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "T-Force Delta RGB 16 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 32 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "HyperX Fury 8 GB",
+        "brand": "63e676baef96c721ef68351d",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f0b",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "12.003 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 64 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 32,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "15"
+    },
+    {
+        "model": "XPG SPECTRIX D60G 16 GB",
+        "brand": "63e676baef96c721ef683521",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z Royal 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.556 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "MD4U083016BGDA 16 GB",
+        "brand": "63e76ef66e9da9cc5b49a844",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "MD4U083216BJDA 16 GB",
+        "brand": "63e76ef66e9da9cc5b49a844",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "T-FORCE VULCAN Z 16 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z Neo 64 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "HyperX Fury RGB 16 GB",
+        "brand": "63e676baef96c721ef68351d",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "XPOWER Turbine 16 GB",
+        "brand": "63e76f3e6e9da9cc5b49a845",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix MAX 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e7795f6e9da9cc5b49a848",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "7.451 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "Trident Z RGB 64 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z RGB 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e76266594b6a35f9da2540",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175e",
+        "first_word_latency": "11.25 ns",
+        "cas_latency": "9"
+    },
+    {
+        "model": "Viper Steel 16 GB",
+        "brand": "63e76e656e9da9cc5b49a843",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86ef6",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.636 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "Trident Z Royal 128 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86efe",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "9 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z RGB 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "SP016GXLZU320BDAJ5 16 GB",
+        "brand": "63e76f3e6e9da9cc5b49a845",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance LPX 8 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e76266594b6a35f9da2541",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "13.333 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix RGB 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "T-Force Delta RGB 16 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 64 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "T-Force Delta RGB 32 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Dominator Platinum RGB 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z Neo 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "HyperX Fury 16 GB",
+        "brand": "63e676baef96c721ef68351d",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f0b",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "12.003 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V Series 8 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 4,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Viper Steel 16 GB",
+        "brand": "63e76e656e9da9cc5b49a843",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Signature Premium 8 GB",
+        "brand": "63e76e656e9da9cc5b49a843",
+        "capacity": 4,
+        "speed": "63e3709adb17322b73d86f0b",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "14.254 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "Aegis 4 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 4,
+        "speed": "63e76266594b6a35f9da2541",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "12.5 ns",
+        "cas_latency": "15"
+    },
+    {
+        "model": "Vengeance RGB Pro SL 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "T-Force Delta RGB 16 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance RGB Pro 64 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "CT64G4LFQ424A 64 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 64,
+        "speed": "63e76266594b6a35f9da2541",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "14.167 ns",
+        "cas_latency": "17"
+    },
+    {
+        "model": "Trident Z RGB 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "15"
+    },
+    {
+        "model": "Vengeance LPX 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z RGB 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.556 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "15"
+    },
+    {
+        "model": "Ripjaws V 64 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Elite 8 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "13.75 ns",
+        "cas_latency": "22"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "T-FORCE VULCAN Z 32 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Ballistix 32 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z Royal 256 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 8,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z RGB 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance LPX 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws Series 8 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 4,
+        "speed": "63e76266594b6a35f9da2540",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175e",
+        "first_word_latency": "11.25 ns",
+        "cas_latency": "9"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Viper Steel 8 GB",
+        "brand": "63e76e656e9da9cc5b49a843",
+        "capacity": 4,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix RGB 32 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V Series 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "AORUS RGB 16 GB",
+        "brand": "63e216d4f8c92b75b8f9784b",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f0b",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "12.003 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro SL 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z Neo 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z RGB 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V Series 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z Neo 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "T-FORCE VULCAN Z 16 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Ripjaws V 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance LPX 128 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e76a7b6e9da9cc5b49a840",
+        "modules": 8,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e76266594b6a35f9da2541",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "13.333 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 32 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Aegis 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance LPX 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z RGB 128 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86efe",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "9 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z RGB 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "HyperX Fury 16 GB",
+        "brand": "63e676baef96c721ef68351d",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z RGB 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V Series 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Aegis 8 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z Neo 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance LPX 8 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 4,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix RGB 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "T-Force Delta RGB 16 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 32 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "HyperX Fury 8 GB",
+        "brand": "63e676baef96c721ef68351d",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f0b",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "12.003 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 64 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 32,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "15"
+    },
+    {
+        "model": "XPG SPECTRIX D60G 16 GB",
+        "brand": "63e676baef96c721ef683521",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z Royal 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.556 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "MD4U083016BGDA 16 GB",
+        "brand": "63e76ef66e9da9cc5b49a844",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "MD4U083216BJDA 16 GB",
+        "brand": "63e76ef66e9da9cc5b49a844",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "T-FORCE VULCAN Z 16 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z Neo 64 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "HyperX Fury RGB 16 GB",
+        "brand": "63e676baef96c721ef68351d",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "XPOWER Turbine 16 GB",
+        "brand": "63e76f3e6e9da9cc5b49a845",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix MAX 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e7795f6e9da9cc5b49a848",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "7.451 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "Trident Z RGB 64 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z RGB 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e76266594b6a35f9da2540",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175e",
+        "first_word_latency": "11.25 ns",
+        "cas_latency": "9"
+    },
+    {
+        "model": "Viper Steel 16 GB",
+        "brand": "63e76e656e9da9cc5b49a843",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86ef6",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.636 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "Trident Z Royal 128 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86efe",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "9 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z RGB 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "SP016GXLZU320BDAJ5 16 GB",
+        "brand": "63e76f3e6e9da9cc5b49a845",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance LPX 8 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e76266594b6a35f9da2541",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "13.333 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix RGB 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "T-Force Delta RGB 16 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 64 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "T-Force Delta RGB 32 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Dominator Platinum RGB 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z Neo 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "HyperX Fury 16 GB",
+        "brand": "63e676baef96c721ef68351d",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f0b",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "12.003 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V Series 8 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 4,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Viper Steel 16 GB",
+        "brand": "63e76e656e9da9cc5b49a843",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Signature Premium 8 GB",
+        "brand": "63e76e656e9da9cc5b49a843",
+        "capacity": 4,
+        "speed": "63e3709adb17322b73d86f0b",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "14.254 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "Aegis 4 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 4,
+        "speed": "63e76266594b6a35f9da2541",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "12.5 ns",
+        "cas_latency": "15"
+    },
+    {
+        "model": "Vengeance RGB Pro SL 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "T-Force Delta RGB 16 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance RGB Pro 64 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "CT64G4LFQ424A 64 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 64,
+        "speed": "63e76266594b6a35f9da2541",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "14.167 ns",
+        "cas_latency": "17"
+    },
+    {
+        "model": "Trident Z RGB 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "15"
+    },
+    {
+        "model": "Vengeance LPX 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z RGB 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.556 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "15"
+    },
+    {
+        "model": "Ripjaws V 64 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Elite 8 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "13.75 ns",
+        "cas_latency": "22"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "T-FORCE VULCAN Z 32 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Ballistix 32 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z Royal 256 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 8,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z RGB 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance LPX 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws Series 8 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 4,
+        "speed": "63e76266594b6a35f9da2540",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175e",
+        "first_word_latency": "11.25 ns",
+        "cas_latency": "9"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Viper Steel 8 GB",
+        "brand": "63e76e656e9da9cc5b49a843",
+        "capacity": 4,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix RGB 32 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V Series 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "AORUS RGB 16 GB",
+        "brand": "63e216d4f8c92b75b8f9784b",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f0b",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "12.003 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro SL 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z Neo 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z RGB 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V Series 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z Neo 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "T-FORCE VULCAN Z 16 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Ripjaws V 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance LPX 128 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e76a7b6e9da9cc5b49a840",
+        "modules": 8,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e76266594b6a35f9da2541",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "13.333 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 32 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Aegis 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance LPX 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z RGB 128 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 32,
+        "speed": "63e3709adb17322b73d86efe",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "9 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Trident Z RGB 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "HyperX Fury 16 GB",
+        "brand": "63e676baef96c721ef68351d",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z RGB 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V Series 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Aegis 8 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z Neo 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance LPX 8 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 4,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix RGB 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "T-Force Delta RGB 16 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ballistix 32 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Ballistix 16 GB",
+        "brand": "63e676baef96c721ef68351e",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "HyperX Fury 8 GB",
+        "brand": "63e676baef96c721ef68351d",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f0b",
+        "modules": 1,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "12.003 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 64 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 32,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance LPX 16 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "15"
+    },
+    {
+        "model": "XPG SPECTRIX D60G 16 GB",
+        "brand": "63e676baef96c721ef683521",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z Royal 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.556 ns",
+        "cas_latency": "19"
+    },
+    {
+        "model": "MD4U083016BGDA 16 GB",
+        "brand": "63e76ef66e9da9cc5b49a844",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V 16 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "MD4U083216BJDA 16 GB",
+        "brand": "63e76ef66e9da9cc5b49a844",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86f08",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "T-FORCE VULCAN Z 16 GB",
+        "brand": "63e676baef96c721ef683520",
+        "capacity": 8,
+        "speed": "63e7697d6e9da9cc5b49a83d",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10.667 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Trident Z Neo 64 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Ripjaws V 32 GB",
+        "brand": "63e76dbb6e9da9cc5b49a842",
+        "capacity": 16,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 2,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "8.889 ns",
+        "cas_latency": "16"
+    },
+    {
+        "model": "Vengeance RGB Pro 32 GB",
+        "brand": "63e4b423fa998a018052c7d7",
+        "capacity": 8,
+        "speed": "63e3709adb17322b73d86eff",
+        "modules": 4,
+        "type": "63e36c1d2012168219bd175f",
+        "first_word_latency": "10 ns",
+        "cas_latency": "18"
+    }
+]

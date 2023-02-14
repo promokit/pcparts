@@ -1,0 +1,67 @@
+[
+    {
+        "_id": "63e7a37e98f12e81bf010ef1",
+        "name": "Radeon Vega 8",
+        "brand": "63e216d4f8c92b75b8f9783e"
+    },
+    {
+        "_id": "63e7a37e98f12e81bf010ef0",
+        "name": "UHD Graphics 750",
+        "brand": "63e216d4f8c92b75b8f97851"
+    },
+    {
+        "_id": "63e7a37e98f12e81bf010ef2",
+        "name": "Radeon Vega 11",
+        "brand": "63e216d4f8c92b75b8f9783e"
+    },
+    {
+        "_id": "63e7a37e98f12e81bf010ef3",
+        "name": "UHD Graphics 730",
+        "brand": "63e216d4f8c92b75b8f97851"
+    },
+    {
+        "_id": "63e7a37e98f12e81bf010ef4",
+        "name": "HD Graphics 630",
+        "brand": "63e216d4f8c92b75b8f97851"
+    },
+    {
+        "_id": "63e7a37e98f12e81bf010ef7",
+        "name": "HD Graphics 530",
+        "brand": "63e216d4f8c92b75b8f97851"
+    },
+    {
+        "_id": "63e7a37e98f12e81bf010ef6",
+        "name": "HD Graphics 4600",
+        "brand": "63e216d4f8c92b75b8f97851"
+    },
+    {
+        "_id": "63e7a37e98f12e81bf010ef5",
+        "name": "Radeon Vega 3",
+        "brand": "63e216d4f8c92b75b8f9783e"
+    },
+    {
+        "_id": "63e7a37e98f12e81bf010ef8",
+        "name": "UHD Graphics 610",
+        "brand": "63e216d4f8c92b75b8f97851"
+    },
+    {
+        "_id": "63e7a37e98f12e81bf010efa",
+        "name": "HD Graphics 2500",
+        "brand": "63e216d4f8c92b75b8f97851"
+    },
+    {
+        "_id": "63e7a37e98f12e81bf010ef9",
+        "name": "HD Graphics 4000",
+        "brand": "63e216d4f8c92b75b8f97851"
+    },
+    {
+        "_id": "63e7a37e98f12e81bf010efb",
+        "name": "Radeon R7 (on-die)",
+        "brand": "63e216d4f8c92b75b8f9783e"
+    },
+    {
+        "_id": "63e7a37e98f12e81bf010eef",
+        "name": "UHD Graphics 630",
+        "brand": "63e216d4f8c92b75b8f97851"
+    }
+]
