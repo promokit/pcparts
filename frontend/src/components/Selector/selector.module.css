@@ -1,0 +1,4 @@
+.selector {
+    grid-area: selector;
+    border: 1px solid red;
+}
