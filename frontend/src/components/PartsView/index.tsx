@@ -3,7 +3,7 @@ import styles from './partsview.module.css';
 function PartsView() {
     return (<div className={styles.view}>
         <svg viewBox="0 0 500 500" className={styles.svg}>
-            <rect x="10" y="10" width="480" height="480" rx="5" stroke-width="3" ry="5" stroke="#000" fill="#fff" />
+            <rect x="10" y="10" width="480" height="480" rx="5" strokeWidth="3" ry="5" stroke="#000" fill="#fff" />
 
             <rect x="40" y="50" width="60" height="30" className={styles.fitting} />
             <rect x="40" y="90" width="60" height="30" strokeWidth="2" stroke="#666" fill="#fff" />
