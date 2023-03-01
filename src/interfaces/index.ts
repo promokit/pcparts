@@ -7,7 +7,10 @@ import { GraphicInterface } from './GraphicInterface';
 import { StorageInterface } from './StorageInterface';
 import { RamSpeedInterface } from './RamSpeedInterface';
 import { CpuGraphicInterface } from './CpuGraphicInterface';
-import { MotherboardInterface } from './MotherboardInterface';
+import {
+    MotherboardInterface,
+    MotherboardArgsInterface,
+} from './MotherboardInterface';
 import { PowerSupplierInterface } from './PowerSupplierInterface';
 export {
     RamInterface,
@@ -21,4 +24,5 @@ export {
     CpuGraphicInterface,
     MotherboardInterface,
     PowerSupplierInterface,
+    MotherboardArgsInterface,
 };

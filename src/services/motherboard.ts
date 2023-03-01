@@ -1,16 +1,18 @@
-import { MotherboardInterface } from '../interfaces';
+import { MotherboardArgsInterface, MotherboardInterface } from '../interfaces';
 import { Motherboard } from '../models';
-import config from '../config';
 
 const getMotherboards = async (
-    limit: number = config.db.requests.limit
+    args: MotherboardArgsInterface
 ): Promise<MotherboardInterface[]> => {
-    const filter = {};
+    let filter = {};
+    if (args.socket) {
+        filter = { socket: args.socket };
+    }
     const params = {
         path: 'brand socket chipset form_factor graphics_bus',
         select: 'name -_id',
     };
-    return await Motherboard.find(filter).limit(limit).populate(params);
+    return await Motherboard.find(filter).limit(args.limit).populate(params);
 };
 
 export { getMotherboards };

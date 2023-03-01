@@ -8,3 +8,8 @@ export interface MotherboardInterface {
     form_factor: Types.ObjectId;
     graphics_bus: Types.ObjectId;
 }
+
+export interface MotherboardArgsInterface {
+    limit: number;
+    socket: string;
+}

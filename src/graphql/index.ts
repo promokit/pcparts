@@ -1,8 +1,10 @@
 import {
     GraphQLInt,
     GraphQLList,
+    GraphQLString,
     GraphQLObjectType,
     GraphQLSchema,
+    GraphQLFieldConfig,
 } from 'graphql';
 
 import {
@@ -22,17 +24,23 @@ import Storage from './schema/storage';
 import Graphic from './schema/graphic';
 import Motherboard from './schema/motherboard';
 import PowerSupplier from './schema/powersupplier';
+import { MotherboardArgsInterface } from '../interfaces';
+
+const motherboards: GraphQLFieldConfig<any, any, any> = {
+    type: new GraphQLList(Motherboard),
+    args: {
+        limit: { type: GraphQLInt },
+        socket: { type: GraphQLString },
+    },
+    resolve: async (_, args: MotherboardArgsInterface) => {
+        return await getMotherboards(args);
+    },
+};
 
 const RootQuery = new GraphQLObjectType({
     name: 'RootQueryType',
     fields: {
-        motherboard: {
-            type: new GraphQLList(Motherboard),
-            args: { limit: { type: GraphQLInt } },
-            async resolve(_, args) {
-                return await getMotherboards(args.limit);
-            },
-        },
+        motherboard: motherboards,
         cpu: {
             type: new GraphQLList(Cpu),
             args: { limit: { type: GraphQLInt } },
