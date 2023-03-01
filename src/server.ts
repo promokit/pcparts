@@ -1,4 +1,4 @@
-import { connect } from 'mongoose';
+import mongoose, { connect, Error } from 'mongoose';
 
 import app from './app';
 import config from './config';
@@ -10,8 +10,11 @@ async function startServer() {
         return console.error('Database link is not provided');
     }
 
+    // Disable strictQuery; the `strictQuery` option will be switched back to `false` by default in Mongoose 7
+    mongoose.set('strictQuery', false);
+
     process.on('uncaughtException', (err: Error) => {
-        console.log('UNCAUGHT EXCEPTION!', err.name, err.message);
+        console.error('UNCAUGHT EXCEPTION!', err);
         process.exit(1);
     });
 
@@ -21,15 +24,15 @@ async function startServer() {
     } catch (error: any) {
         throw new ApiError(
             StatusCodes.INTERNAL_SERVER_ERROR,
-            error.MongoServerError,
-            error.codeName
+            error?.MongoServerError,
+            error?.codeName
         );
     }
 
     const server = app
         .listen(config.port, () => {
             console.log(
-                `Server is running at: http://localhost:${config.port}/`
+                `GraphQL endpoint:\x1b[33m http://localhost:${config.port}${config.api.graphql}\x1b[0m`
             );
         })
         .on('error', (err: Error) => {
@@ -38,7 +41,7 @@ async function startServer() {
         });
 
     process.on('unhandledRejection', (err: Error) => {
-        console.log('UNHANDLED REJECTION!', err.name, err.message);
+        console.error('UNHANDLED REJECTION!', err.name, err.message);
         server.close(() => {
             process.exit(1);
         });

@@ -4,16 +4,7 @@ import mongoose from 'mongoose';
 import config from '../config';
 import ApiError from '../abstractions/ApiError';
 import { StatusCodes } from '../models/enums/status_codes';
-import { Models } from '../models';
-
-interface FilesSet {
-    file: string;
-}
-interface CollectionSet<T> extends FilesSet {
-    model: T;
-}
-
-const {
+import {
     Cpu,
     Ram,
     Case,
@@ -32,7 +23,15 @@ const {
     Motherboard,
     PowerSupplier,
     StorageFormFactor,
-} = Models;
+} from '../models';
+
+interface FilesSet {
+    file: string;
+}
+
+interface CollectionSet<T> extends FilesSet {
+    model: T;
+}
 
 if (!config.databaseURL) {
     throw new Error('Database link is not provided');
@@ -103,9 +102,7 @@ const seedData = async (collection: string | null) => {
 
     collection ? await seedOne(collection) : await seedAll();
 
-    return console.log(
-        `${collection ? collection : 'All'} data successfully seeded!`
-    );
+    return console.log(`${collection || 'All'} data successfully seeded!`);
 };
 
 const deleteData = async (collection: string | null) => {
@@ -125,9 +122,7 @@ const deleteData = async (collection: string | null) => {
 
     collection ? await deleteOne(collection) : await deleteAll();
 
-    return console.log(
-        `${collection ? collection : 'All'} data successfully deleted!`
-    );
+    return console.log(`${collection || 'All'} data successfully deleted!`);
 };
 
 (async function () {
@@ -139,7 +134,7 @@ const deleteData = async (collection: string | null) => {
         await mongoose.connect(config.databaseURL);
         console.info('Connection with DB is established');
     } catch (error: any) {
-        throw new ApiError(error, StatusCodes.INTERNAL_SERVER_ERROR);
+        throw new ApiError(StatusCodes.INTERNAL_SERVER_ERROR, error);
     }
 
     const action = process.argv[2];
