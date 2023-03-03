@@ -1,18 +1,11 @@
-import {
-    GraphQLFieldConfig,
-    GraphQLInt,
-    GraphQLList,
-    GraphQLObjectType,
-    GraphQLString,
-} from 'graphql';
-
+import { GraphQLInt, GraphQLList, GraphQLObjectType } from 'graphql';
+import getMotherboardsBy from '../resolvers/motherboard';
 import {
     getCpus,
     getRam,
     getCases,
     getStorages,
     getGraphics,
-    getMotherboards,
     getPowerSuppliers,
 } from '../../services';
 
@@ -21,25 +14,12 @@ import Ram from '../types/ram';
 import Case from '../types/case';
 import Storage from '../types/storage';
 import Graphic from '../types/graphic';
-import Motherboard from '../types/motherboard';
 import PowerSupplier from '../types/powersupplier';
-import { MotherboardArgsInterface } from '../../interfaces';
-
-const motherboards: GraphQLFieldConfig<any, any, any> = {
-    type: new GraphQLList(Motherboard),
-    args: {
-        limit: { type: GraphQLInt },
-        socket: { type: GraphQLString },
-    },
-    resolve: async (_, args: MotherboardArgsInterface) => {
-        return await getMotherboards(args);
-    },
-};
 
 const RootQuery = new GraphQLObjectType({
-    name: 'RootQueryType',
+    name: 'RootQuery',
     fields: {
-        motherboard: motherboards,
+        getMotherboardsBy: getMotherboardsBy,
         cpu: {
             type: new GraphQLList(Cpu),
             args: { limit: { type: GraphQLInt } },

@@ -1,29 +1,37 @@
 import { GraphQLInt, GraphQLObjectType, GraphQLString } from 'graphql';
+import BasicType from './basic';
 
 const Motherboard: GraphQLObjectType = new GraphQLObjectType({
     name: 'Motherboard',
     fields: {
-        model: { type: GraphQLString },
-        ram_slots: { type: GraphQLInt },
-        brand: {
+        _id: {
             type: GraphQLString,
-            resolve: ({ brand }) => brand.name,
+        },
+        model: {
+            type: GraphQLString,
+        },
+        ram_slots: {
+            type: GraphQLInt,
+        },
+        brand: {
+            type: BasicType,
+            resolve: ({ brand }) => brand,
         },
         graphics_bus: {
-            type: GraphQLString,
-            resolve: ({ graphics_bus }) => graphics_bus.name,
+            type: BasicType,
+            resolve: ({ graphics_bus }) => graphics_bus,
         },
         form_factor: {
-            type: GraphQLString,
-            resolve: ({ form_factor }) => form_factor.name,
+            type: BasicType,
+            resolve: ({ form_factor }) => form_factor,
         },
         socket: {
-            type: GraphQLString,
-            resolve: ({ socket }) => socket.name,
+            type: BasicType,
+            resolve: ({ socket }) => socket,
         },
         chipset: {
-            type: GraphQLString,
-            resolve: ({ chipset }) => chipset.name,
+            type: BasicType,
+            resolve: ({ chipset }) => chipset,
         },
     },
 });

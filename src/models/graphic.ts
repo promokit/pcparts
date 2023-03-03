@@ -2,6 +2,11 @@ import { Schema, model } from 'mongoose';
 import { GraphicInterface } from '../interfaces';
 
 const schema: Schema = new Schema<GraphicInterface>({
+    _id: {
+        type: String,
+        required: [true, 'Graphic model can not be empty'],
+        maxlength: [64, 'Graphic model must have less 64 characters'],
+    },
     model: {
         type: String,
         required: [true, 'Graphic model can not be empty'],

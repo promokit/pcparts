@@ -1,5 +1,6 @@
 import { Types } from 'mongoose';
 export interface MotherboardInterface {
+    _id: string;
     model: string;
     ram_slots: number;
     brand: Types.ObjectId;
@@ -10,6 +11,11 @@ export interface MotherboardInterface {
 }
 
 export interface MotherboardArgsInterface {
+    id: string;
     limit: number;
+    brand: string;
     socket: string;
+    chipset: string;
+    form_factor: string;
+    graphic_bus: string;
 }
