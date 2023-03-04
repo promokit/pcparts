@@ -3,7 +3,7 @@
 <!-- Please, mark done -->
 
 -   [ ] Title format: **PCPARTS-XXX | Title Case Description**
--   [ ] **README** is up to date
+-   [ ] **README** is up to date OR not necessary
 
 ## JIRA Ticket
 
