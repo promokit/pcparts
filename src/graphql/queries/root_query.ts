@@ -7,7 +7,7 @@ import {
     getStoragesBy,
     getMotherboardsBy,
     getPowerSuppliersBy,
-} from '../resolvers';
+} from '.';
 
 const RootQuery = new GraphQLObjectType({
     name: 'RootQuery',

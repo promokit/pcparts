@@ -4,7 +4,7 @@ import {
     GraphQLList,
     GraphQLString,
 } from 'graphql';
-import Storage from '../types/cpu';
+import Storage from '../types/storage';
 import { getStorages } from '../../services';
 import { StorageArgsInterface } from '../../interfaces';
 
