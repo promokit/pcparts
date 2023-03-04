@@ -1,11 +1,11 @@
 import config from '../config';
 import { Motherboard } from '../models';
 import {
-    MotherboardArgsInterface as IArgs,
-    MotherboardInterface as IMb,
+    MotherboardArgsInterface as Args,
+    MotherboardInterface as Items,
 } from '../interfaces';
 
-const getMotherboards = async (args: IArgs): Promise<IMb[]> => {
+const getMotherboards = async (args: Args): Promise<Items[]> => {
     const { limit = config.db.requests.limit, ...filter } = args;
     const params = {
         path: 'brand socket chipset form_factor graphics_bus',

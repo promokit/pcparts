@@ -1,15 +1,17 @@
-import { StorageInterface } from '../interfaces';
-import { Storage } from '../models';
 import config from '../config';
+import { Storage } from '../models';
+import {
+    StorageArgsInterface as Args,
+    StorageInterface as Items,
+} from '../interfaces';
 
-const getStorages = async (
-    limit: number = config.db.requests.limit
-): Promise<StorageInterface[]> => {
-    const filter = {};
+const getStorages = async (args: Args): Promise<Items[]> => {
+    const { limit = config.db.requests.limit, ...filter } = args;
     const params = {
         path: 'brand type form_factor port',
-        select: 'name -_id',
+        select: 'name _id',
     };
+
     return await Storage.find(filter).limit(limit).populate(params);
 };
 
