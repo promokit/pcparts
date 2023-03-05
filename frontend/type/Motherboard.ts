@@ -1,4 +1,4 @@
-export interface Motherboard {
+export default interface Motherboard {
     __typename: String,
     ram_slots: 4,
     model: string,

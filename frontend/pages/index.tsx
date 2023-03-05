@@ -5,15 +5,16 @@ import styles from '@/styles/Home.module.css'
 import PartsView from '../src/components/PartsView';
 import Selector from '../src/components/SelectorView';
 import client from "../src/middleware/apollo-client";
-import { Motherboard } from '@/type/Motherboard';
+import { Motherboard, CPU } from '@/type';
 
 const inter = Inter({ subsets: ['latin'] })
 
 interface pageProps {
   motherboards: Motherboard[]
+  cpus: CPU[]
 }
 
-export default function Home({ motherboards } : pageProps) {
+export default function Home({ motherboards, cpus } : pageProps) {
   return (
     <>
       <Head>
@@ -23,7 +24,7 @@ export default function Home({ motherboards } : pageProps) {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <Selector motherboards={motherboards}/>
+        <Selector motherboards={motherboards} cpus={cpus} />
         <PartsView />
       </main>
     </>
@@ -39,6 +40,11 @@ export const getServerSideProps = async () => {
           model
           brand
         }
+        cpu {
+          model
+          brand
+          ram_speed
+        }
       }
     `,
   });
@@ -46,6 +52,7 @@ export const getServerSideProps = async () => {
   return {
     props: {
       motherboards: data.motherboard,
+      cpus: data.cpu
     },
  };
 }

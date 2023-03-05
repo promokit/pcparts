@@ -1,17 +1,19 @@
-import styles from './selector.module.css';
 import Selector from './Selector';
-import { Motherboard } from '@/type/Motherboard';
+import { Motherboard, CPU } from '@/type';
 
 
-interface pageProps {
+interface componentProps {
     motherboards: Motherboard[]
+    cpus: CPU[]
 }
 
-function SelectorView({ motherboards } : pageProps) {
-    
-    return <div className={styles.selector}>Selector
-        <Selector<Motherboard> options={motherboards} label="Plyta glowna" type="motherboard" />
-    </div>
+function SelectorView({ motherboards, cpus }: componentProps) {
+
+    return (
+        <div>
+            <Selector<Motherboard> options={motherboards} label="Plyta glowna" type="motherboard" />
+            <Selector<CPU> options={cpus} label="Procesor" type="cpu" />
+        </div>);
 }
 
 export default SelectorView;
