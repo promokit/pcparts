@@ -1,15 +1,14 @@
-import { RamInterface } from '../interfaces';
-import { Ram } from '../models';
 import config from '../config';
+import { Ram } from '../models';
+import { RamArgsInterface as Args, RamInterface as Items } from '../interfaces';
 
-const getRam = async (
-    limit: number = config.db.requests.limit
-): Promise<RamInterface[]> => {
-    const filter = {};
+const getRam = async (args: Args): Promise<Items[]> => {
+    const { limit = config.db.requests.limit, ...filter } = args;
     const params = {
         path: 'brand type speed',
-        select: 'name speed -_id',
+        select: 'name speed _id',
     };
+
     return await Ram.find(filter).limit(limit).populate(params);
 };
 

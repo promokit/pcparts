@@ -3,9 +3,7 @@ import { graphqlHTTP } from 'express-graphql';
 
 import config from './config';
 import schema from './graphql';
-import ApiError from './abstractions/ApiError';
 import addErrorHandler from './middleware/error_handlers';
-import { StatusCodes } from './models/enums/status_codes';
 
 const app: Express = express();
 
@@ -17,13 +15,10 @@ app.use(
     })
 );
 
-app.all('*', (req, _, next) => {
-    next(
-        new ApiError(
-            StatusCodes.NOT_FOUND,
-            `Can't find ${req.originalUrl} on this server!`
-        )
-    );
+app.all('*', (_, res) => {
+    const link = `http://localhost:${config.port}${config.api.graphql}`;
+    res.header('Content-type', 'text/html');
+    res.end(`<h3>GraphQL endpoint — <a href="${link}">${link}</a></h3>`);
 });
 
 app.use(addErrorHandler);

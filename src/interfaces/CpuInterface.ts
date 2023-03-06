@@ -12,3 +12,12 @@ export interface CpuInterface {
     ram_speed: Types.ObjectId;
     smt: boolean;
 }
+
+export interface CpuArgsInterface {
+    _id: string;
+    limit: number;
+    brand: string;
+    socket: string;
+    ram_type: string;
+    ram_speed: string;
+}
