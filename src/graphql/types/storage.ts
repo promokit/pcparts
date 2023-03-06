@@ -1,26 +1,36 @@
 import { GraphQLInt, GraphQLObjectType, GraphQLString } from 'graphql';
+import BasicType from './basic';
 
 const Storage: GraphQLObjectType = new GraphQLObjectType({
     name: 'Storage',
     fields: {
-        model: { type: GraphQLString },
-        capacity: { type: GraphQLInt },
-        cache: { type: GraphQLInt },
-        brand: {
+        _id: {
             type: GraphQLString,
-            resolve: ({ brand }) => brand.name,
+        },
+        model: {
+            type: GraphQLString,
+        },
+        capacity: {
+            type: GraphQLInt,
+        },
+        cache: {
+            type: GraphQLInt,
+        },
+        brand: {
+            type: BasicType,
+            resolve: ({ brand }) => brand,
         },
         type: {
-            type: GraphQLString,
-            resolve: ({ type }) => type.name,
+            type: BasicType,
+            resolve: ({ type }) => type,
         },
         form_factor: {
-            type: GraphQLString,
-            resolve: ({ form_factor }) => form_factor.name,
+            type: BasicType,
+            resolve: ({ form_factor }) => form_factor,
         },
         port: {
-            type: GraphQLString,
-            resolve: ({ port }) => port.name,
+            type: BasicType,
+            resolve: ({ port }) => port,
         },
     },
 });

@@ -14,7 +14,7 @@ const getMotherboardsBy: GraphQLFieldConfig<unknown, unknown> = {
     type: new GraphQLList(Motherboard),
     args: {
         limit: { type: GraphQLInt },
-        id: { type: GraphQLString },
+        _id: { type: GraphQLString },
         brand: { type: GraphQLString },
         socket: { type: GraphQLString },
         chipset: { type: GraphQLString },

@@ -11,7 +11,7 @@ export interface MotherboardInterface {
 }
 
 export interface MotherboardArgsInterface {
-    id: string;
+    _id: string;
     limit: number;
     brand: string;
     socket: string;

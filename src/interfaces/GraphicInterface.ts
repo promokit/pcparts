@@ -10,3 +10,10 @@ export interface GraphicInterface {
     length: string;
     chipset: string;
 }
+
+export interface GraphicArgsInterface {
+    _id: string;
+    limit: number;
+    brand: string;
+    graphic_bus: string;
+}

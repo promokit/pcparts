@@ -1,16 +1,22 @@
 import { GraphQLObjectType, GraphQLString } from 'graphql';
+import BasicType from './basic';
 
 const PowerSupplier: GraphQLObjectType = new GraphQLObjectType({
     name: 'PowerSupplier',
     fields: {
-        model: { type: GraphQLString },
-        brand: {
+        _id: {
             type: GraphQLString,
-            resolve: ({ brand }) => brand.name,
+        },
+        model: {
+            type: GraphQLString,
+        },
+        brand: {
+            type: BasicType,
+            resolve: ({ brand }) => brand,
         },
         form_factor: {
-            type: GraphQLString,
-            resolve: ({ form_factor }) => form_factor.name,
+            type: BasicType,
+            resolve: ({ form_factor }) => form_factor,
         },
     },
 });
