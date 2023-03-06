@@ -1,9 +1,9 @@
 import { SelectorProps } from '@/type';
 
-function Selector<ElementType extends { model: string, brand: string}>({ options, type, label }: SelectorProps<ElementType>) {
+function Selector<ElementType extends { _id: string, model: string, brand: { name: string}}>({ options, type, label }: SelectorProps<ElementType>) {
     return <div><label htmlFor={type}>{label}</label>
         <select name={label} id={type}>
-            {options.map(({ model, brand }) => (<option key={model}>{`${model} (${brand})`}</option>))}
+            {options.map(({ model, brand: { name}, _id }) => (<option key={_id}>{`${model} (${name})`}</option>))}
         </select>
     </div>
 }

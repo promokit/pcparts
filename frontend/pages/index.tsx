@@ -34,16 +34,21 @@ export default function Home({ motherboards, cpus } : pageProps) {
 export const getServerSideProps = async () => {
   const { data } = await client.query({
     query: gql`
-      query getMotherboards {
-        motherboard {
+      query getStartData {
+        getMotherboardsBy(limit: 20) {
+          _id
+          model
           ram_slots
-          model
-          brand
+          brand {
+            name
+          }
         }
-        cpu {
+        getCpusBy(limit: 20) {
+          _id
           model
-          brand
-          ram_speed
+          brand {
+            name
+          }
         }
       }
     `,
@@ -51,8 +56,8 @@ export const getServerSideProps = async () => {
 
   return {
     props: {
-      motherboards: data.motherboard,
-      cpus: data.cpu
+      motherboards: data.getMotherboardsBy,
+      cpus: data.getCpusBy,
     },
  };
 }

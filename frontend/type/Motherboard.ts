@@ -1,6 +1,8 @@
 export default interface Motherboard {
-    __typename: String,
+    _id: string,
     ram_slots: 4,
     model: string,
-    brand: string,
+    brand: {
+        name: string,
+    }
 }
