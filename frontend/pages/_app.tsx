@@ -5,9 +5,9 @@ import Footer from '@/src/components/Footer';
 
 export default function App({ Component, pageProps }: AppProps) {
   return (
-  <>
-   <Header />
-  <Component {...pageProps} />
-  <Footer />
-  </>);
+    <>
+      <Header />
+      <Component {...pageProps} />
+      <Footer />
+    </>);
 }
