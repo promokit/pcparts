@@ -1,0 +1,9 @@
+.header {
+    height: 80px;
+    color:  hsla(0,0%,94%,.95);
+    background: linear-gradient(270deg, #007ac9 15%, rgb(25, 24, 70) 100%);
+    display: flex;
+    align-items: center;
+    font-size: 34px;
+    padding-left: 40px;
+}
