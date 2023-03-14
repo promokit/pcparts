@@ -1,18 +1,17 @@
 import config from '../config';
-import { Storage } from '../models';
-import {
-    StorageArgsInterface as Args,
-    StorageInterface as Items,
-} from '../interfaces';
+import { QueryGetRamByArgs as Args } from '../graphql/generated';
+import { StorageModel as Model, StorageInterface as Items } from '../models';
 
 const getStorages = async (args: Args): Promise<Items[]> => {
-    const { limit = config.db.requests.limit, ...filter } = args;
+    let { limit, ...filter } = args;
+    limit = limit || config.db.requests.limit;
+
     const params = {
         path: 'brand type form_factor port',
         select: 'name _id',
     };
 
-    return await Storage.find(filter).limit(limit).populate(params);
+    return await Model.find(filter).limit(limit).populate(params);
 };
 
 export { getStorages };

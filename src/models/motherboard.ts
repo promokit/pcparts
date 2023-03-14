@@ -1,7 +1,6 @@
-import { Schema, model } from 'mongoose';
-import { MotherboardInterface } from '../interfaces';
+import { Schema, model, InferSchemaType } from 'mongoose';
 
-const schema: Schema = new Schema<MotherboardInterface>({
+const schema: Schema = new Schema({
     model: {
         type: String,
         required: [true, 'Motherboard model can not be empty'],
@@ -39,4 +38,10 @@ const schema: Schema = new Schema<MotherboardInterface>({
     },
 });
 
-export default model<MotherboardInterface>('Motherboard', schema);
+type schemaType = InferSchemaType<typeof schema>;
+
+interface MotherboardInterface extends schemaType {}
+
+const MotherboardModel = model<MotherboardInterface>('Motherboard', schema);
+
+export { MotherboardInterface, MotherboardModel };

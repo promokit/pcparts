@@ -1,18 +1,20 @@
 import config from '../config';
-import { Motherboard } from '../models';
+import { QueryGetMotherboardsByArgs as Args } from '../graphql/generated';
 import {
-    MotherboardArgsInterface as Args,
     MotherboardInterface as Items,
-} from '../interfaces';
+    MotherboardModel as Model,
+} from '../models';
 
 const getMotherboards = async (args: Args): Promise<Items[]> => {
-    const { limit = config.db.requests.limit, ...filter } = args;
+    let { limit, ...filter } = args;
+    limit = limit || config.db.requests.limit;
+
     const params = {
         path: 'brand socket chipset form_factor graphics_bus',
         select: 'name _id',
     };
 
-    return await Motherboard.find(filter).limit(limit).populate(params);
+    return await Model.find(filter).limit(limit).populate(params);
 };
 
 export { getMotherboards };

@@ -1,12 +1,18 @@
 import mongoose, { connect, Error } from 'mongoose';
+import { ApolloServer } from '@apollo/server';
+import { startStandaloneServer } from '@apollo/server/standalone';
 
-import app from './app';
 import config from './config';
 import ApiError from './abstractions/ApiError';
 import { StatusCodes } from './models/enums/status_codes';
+import { serverConfig } from './graphql';
+
+const { databaseURL, port } = config;
+
+interface MyContext {}
 
 async function startServer() {
-    if (!config.databaseURL) {
+    if (!databaseURL) {
         return console.error('Database link is not provided');
     }
 
@@ -19,8 +25,8 @@ async function startServer() {
     });
 
     try {
-        await connect(config.databaseURL);
-        console.info('Connection with DB is established');
+        await connect(databaseURL);
+        console.info('📀 Connection with DB is established');
     } catch (error: any) {
         throw new ApiError(
             StatusCodes.INTERNAL_SERVER_ERROR,
@@ -29,22 +35,14 @@ async function startServer() {
         );
     }
 
-    const server = app
-        .listen(config.port, () => {
-            console.log(
-                `GraphQL endpoint:\x1b[33m http://localhost:${config.port}${config.api.graphql}\x1b[0m`
-            );
-        })
-        .on('error', (err: Error) => {
-            console.error(err);
-            process.exit(1);
-        });
+    const server = new ApolloServer<any>(serverConfig);
+
+    const { url } = await startStandaloneServer(server, { listen: { port } });
+
+    console.log(`🚀 Server ready at:\x1b[33m ${url}\x1b[0m`);
 
     process.on('unhandledRejection', (err: Error) => {
         console.error('UNHANDLED REJECTION!', err.name, err.message);
-        server.close(() => {
-            process.exit(1);
-        });
     });
 }
 

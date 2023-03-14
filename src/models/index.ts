@@ -1,39 +1,48 @@
-import Cpu from './cpu';
-import Ram from './ram';
-import Case from './case';
 import Brand from './brand';
 import Socket from './socket';
-import Graphic from './graphic';
-import Chipset from './chipset';
 import RamType from './ramType';
-import Storage from './storage';
 import RamSpeed from './ramSpeed';
 import CpuGraphic from './cpuGraphic';
 import GraphicBus from './graphicBus';
 import FormFactor from './formFactor';
 import StoragePort from './storagePort';
-import Motherboard from './motherboard';
 import StorageType from './storageType';
-import PowerSupplier from './powerSupplier';
 import StorageFormFactor from './storageFormFactor';
 
+import { CpuInterface, CpuModel } from './cpu';
+import { RamInterface, RamModel } from './ram';
+import { CaseInterface, CaseModel } from './case';
+import { GraphicInterface, GraphicModel } from './graphic';
+import { ChipsetInterface, ChipsetModel } from './chipset';
+import { StorageInterface, StorageModel } from './storage';
+import { MotherboardInterface, MotherboardModel } from './motherboard';
+import { PowerSupplierInterface, PowerSupplierModel } from './powerSupplier';
+
 export {
-    Ram,
-    Cpu,
-    Case,
     Brand,
     Socket,
-    Chipset,
     RamType,
-    Storage,
-    Graphic,
     RamSpeed,
     CpuGraphic,
     GraphicBus,
     FormFactor,
-    Motherboard,
     StoragePort,
     StorageType,
-    PowerSupplier,
     StorageFormFactor,
+    RamInterface,
+    RamModel,
+    CpuInterface,
+    CpuModel,
+    CaseInterface,
+    CaseModel,
+    ChipsetInterface,
+    ChipsetModel,
+    StorageInterface,
+    StorageModel,
+    GraphicInterface,
+    GraphicModel,
+    MotherboardInterface,
+    MotherboardModel,
+    PowerSupplierInterface,
+    PowerSupplierModel,
 };

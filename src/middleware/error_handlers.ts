@@ -7,7 +7,7 @@ const defaultMessage = 'An error occurred during the request.';
 
 const addErrorHandler = (
     err: ApiError,
-    req: Request,
+    _: Request,
     res: Response,
     next: NextFunction
 ): void => {

@@ -1,7 +1,6 @@
-import { Schema, model } from 'mongoose';
-import { GraphicInterface } from '../interfaces';
+import { Schema, model, InferSchemaType } from 'mongoose';
 
-const schema: Schema = new Schema<GraphicInterface>({
+const schema: Schema = new Schema({
     _id: {
         type: String,
         required: [true, 'Graphic model can not be empty'],
@@ -50,4 +49,10 @@ const schema: Schema = new Schema<GraphicInterface>({
     },
 });
 
-export default model<GraphicInterface>('Graphic', schema);
+type schemaType = InferSchemaType<typeof schema>;
+
+interface GraphicInterface extends schemaType {}
+
+const GraphicModel = model<GraphicInterface>('Graphic', schema);
+
+export { GraphicInterface, GraphicModel };

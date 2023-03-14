@@ -1,18 +1,20 @@
 import config from '../config';
-import { PowerSupplier } from '../models';
+import { QueryGetPowerSupplierByArgs as Args } from '../graphql/generated';
 import {
-    PowerSupplierArgsInterface as Args,
+    PowerSupplierModel as Model,
     PowerSupplierInterface as Items,
-} from '../interfaces';
+} from '../models';
 
 const getPowerSuppliers = async (args: Args): Promise<Items[]> => {
-    const { limit = config.db.requests.limit, ...filter } = args;
+    let { limit, ...filter } = args;
+    limit = limit || config.db.requests.limit;
+
     const params = {
         path: 'brand form_factor',
         select: 'name _id',
     };
 
-    return await PowerSupplier.find(filter).limit(limit).populate(params);
+    return await Model.find(filter).limit(limit).populate(params);
 };
 
 export { getPowerSuppliers };
