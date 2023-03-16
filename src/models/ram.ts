@@ -1,7 +1,6 @@
-import { Schema, model } from 'mongoose';
-import { RamInterface } from '../interfaces';
+import { Schema, model, InferSchemaType } from 'mongoose';
 
-const schema: Schema = new Schema<RamInterface>({
+const schema: Schema = new Schema({
     model: {
         type: String,
         required: [true, 'RAM model can not be empty'],
@@ -44,4 +43,10 @@ const schema: Schema = new Schema<RamInterface>({
     },
 });
 
-export default model<RamInterface>('Ram', schema);
+type schemaType = InferSchemaType<typeof schema>;
+
+interface RamInterface extends schemaType {}
+
+const RamModel = model<RamInterface>('Ram', schema);
+
+export { RamInterface, RamModel };

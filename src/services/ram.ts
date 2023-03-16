@@ -1,15 +1,17 @@
 import config from '../config';
-import { Ram } from '../models';
-import { RamArgsInterface as Args, RamInterface as Items } from '../interfaces';
+import { QueryGetRamByArgs as Args } from '../graphql/generated';
+import { RamModel as Model, RamInterface as Items } from '../models';
 
 const getRam = async (args: Args): Promise<Items[]> => {
-    const { limit = config.db.requests.limit, ...filter } = args;
+    let { limit, ...filter } = args;
+    limit = limit || config.db.requests.limit;
+
     const params = {
         path: 'brand type speed',
         select: 'name speed _id',
     };
 
-    return await Ram.find(filter).limit(limit).populate(params);
+    return await Model.find(filter).limit(limit).populate(params);
 };
 
 export { getRam };

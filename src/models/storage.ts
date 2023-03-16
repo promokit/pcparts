@@ -1,7 +1,6 @@
-import { Schema, model } from 'mongoose';
-import { StorageInterface } from '../interfaces';
+import { Schema, model, InferSchemaType } from 'mongoose';
 
-const schema: Schema = new Schema<StorageInterface>({
+const schema: Schema = new Schema({
     model: {
         type: String,
         required: [true, 'Storage model can not be empty'],
@@ -37,4 +36,10 @@ const schema: Schema = new Schema<StorageInterface>({
     },
 });
 
-export default model<StorageInterface>('Storage', schema);
+type schemaType = InferSchemaType<typeof schema>;
+
+interface StorageInterface extends schemaType {}
+
+const StorageModel = model<StorageInterface>('Storage', schema);
+
+export { StorageInterface, StorageModel };

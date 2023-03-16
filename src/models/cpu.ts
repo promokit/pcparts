@@ -1,7 +1,6 @@
-import { Schema, model } from 'mongoose';
-import { CpuInterface } from '../interfaces';
+import { Schema, model, InferSchemaType } from 'mongoose';
 
-const schema: Schema = new Schema<CpuInterface>({
+const schema: Schema = new Schema({
     model: {
         type: String,
         required: [true, 'CPU model can not be empty'],
@@ -59,4 +58,10 @@ const schema: Schema = new Schema<CpuInterface>({
     },
 });
 
-export default model<CpuInterface>('Cpu', schema);
+type schemaType = InferSchemaType<typeof schema>;
+
+interface CpuInterface extends schemaType {}
+
+const CpuModel = model<CpuInterface>('Cpu', schema);
+
+export { CpuInterface, CpuModel };

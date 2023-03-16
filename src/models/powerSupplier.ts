@@ -1,7 +1,6 @@
-import { Schema, model } from 'mongoose';
-import { PowerSupplierInterface } from '../interfaces';
+import { Schema, model, InferSchemaType } from 'mongoose';
 
-const schema: Schema = new Schema<PowerSupplierInterface>({
+const schema: Schema = new Schema({
     model: {
         type: String,
         required: [true, 'Power Supplier model can not be empty'],
@@ -20,4 +19,13 @@ const schema: Schema = new Schema<PowerSupplierInterface>({
     },
 });
 
-export default model<PowerSupplierInterface>('PowerSupplier', schema);
+type schemaType = InferSchemaType<typeof schema>;
+
+interface PowerSupplierInterface extends schemaType {}
+
+const PowerSupplierModel = model<PowerSupplierInterface>(
+    'PowerSupplier',
+    schema
+);
+
+export { PowerSupplierInterface, PowerSupplierModel };
