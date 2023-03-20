@@ -1,6 +1,6 @@
 .footer {
     background-color: #007ac9;
-    color: hsla(0,0%,94%,.95);
+    color: rgba(239, 239, 239, 0.95);
     font-size: 10px;
     height: 40px;
     display: flex;
