@@ -4,6 +4,7 @@
   grid-template-rows: 50vh 1fr;
   grid-template-areas: "selector view"
     "selector .";
+  min-height: calc(100vh - 120px);
 }
 
 @media (max-width: 767px) {
@@ -13,12 +14,3 @@
   }
 }
 
-.selector {
-  background-color: red;
-  grid-area: selector;
-}
-
-.view {
-  background-color: blue;
-  grid-area: view;
-}
