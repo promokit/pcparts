@@ -1,20 +1,26 @@
-import config from '../config';
+import { PopulateOptions } from 'mongoose';
 import { QueryGetPowerSupplierByArgs as Args } from '../graphql/generated';
 import {
     PowerSupplierModel as Model,
     PowerSupplierInterface as Items,
 } from '../models';
+import config from '../config';
+import { makeAggregation } from '../utils/mongoose';
+
+const populations: PopulateOptions = {
+    path: 'brand form_factor',
+    select: 'name _id',
+};
 
 const getPowerSuppliers = async (args: Args): Promise<Items[]> => {
-    let { limit, ...filter } = args;
-    limit = limit || config.db.requests.limit;
-
-    const params = {
-        path: 'brand form_factor',
-        select: 'name _id',
+    const props = {
+        args: {
+            ...args,
+            limit: args.limit || config.db.requests.limit,
+        },
+        populations,
     };
-
-    return await Model.find(filter).limit(limit).populate(params);
+    return await makeAggregation<Items, Args>(Model, props);
 };
 
 export { getPowerSuppliers };

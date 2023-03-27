@@ -1,5 +1,5 @@
 import fs from 'fs';
-import mongoose from 'mongoose';
+import mongoose, { Error } from 'mongoose';
 
 import config from '../config';
 import ApiError from '../abstractions/ApiError';
@@ -29,25 +29,27 @@ interface FilesSet {
     file: string;
 }
 
-interface CollectionSet<T> extends FilesSet {
-    model: T;
+// FIXME: fix any type
+interface CollectionSet extends FilesSet {
+    model: any;
 }
 
 if (!config.databaseURL) {
     throw new Error('Database link is not provided');
 }
 
-// the `strictQuery` option will be switched back to `false` by default in Mongoose 7
-mongoose.set('strictQuery', false);
-
 const readFile = (file: string) => {
-    return JSON.parse(
-        fs.readFileSync(`${process.cwd()}/db/seeds/${file}.json`, 'utf-8')
-    );
+    try {
+        const json = JSON.parse(
+            fs.readFileSync(`${process.cwd()}/db/seeds/${file}.json`, 'utf-8')
+        );
+        return json;
+    } catch (_) {
+        return false;
+    }
 };
 
-// TODO: fix any type
-const collectionsMap: CollectionSet<any>[] = [
+const collectionsMap: CollectionSet[] = [
     { model: Brand, file: 'brands' },
     { model: FormFactor, file: 'formfactors' },
     { model: StorageType, file: 'storagetypes' },
@@ -68,13 +70,31 @@ const collectionsMap: CollectionSet<any>[] = [
     { model: Motherboard, file: 'motherboards' },
 ];
 
+const findModel = (collection: string): CollectionSet | undefined => {
+    return collectionsMap.find(({ file }: FilesSet) => file === collection);
+};
+
 const seedData = async (collection: string | null) => {
     const seedOne = async (sourceFile: string) => {
-        const seed = collectionsMap.find(
-            ({ file }: FilesSet) => file === sourceFile
-        );
+        const seed = findModel(sourceFile);
+
+        if (!seed) {
+            return console.log(`🟡 "${collection}" does not exist!`);
+        }
+
         const data = readFile(sourceFile);
-        seed && data && (await seed.model.create(data));
+
+        if (!data) {
+            return console.log(`🟡 "${collection}" data is corrupted!`);
+        }
+
+        const response = await seed.model.create(data);
+
+        console.log(
+            response
+                ? `🟢 "${collection}" data successfully seeded`
+                : '🔴 Unable to seed data!'
+        );
     };
 
     // need to make initial seed step by step because of some mongodb timeouts
@@ -98,41 +118,51 @@ const seedData = async (collection: string | null) => {
         await Cpu.create(readFile('cpus'));
         await Storage.create(readFile('storages'));
         await Motherboard.create(readFile('motherboards'));
+
+        console.log(`🟢 All data successfully seeded`);
     };
 
     collection ? await seedOne(collection) : await seedAll();
-
-    return console.log(`${collection || 'All'} data successfully seeded!`);
 };
 
 const deleteData = async (collection: string | null) => {
     const deleteOne = async (collection: string) => {
-        const seed = collectionsMap.find(
-            ({ file }: FilesSet) => file === collection
+        const seed = findModel(collection);
+
+        if (!seed) {
+            return console.log(`🟡 "${collection}" does not exist!`);
+        }
+
+        const { acknowledged, deletedCount } = await seed.model.deleteMany({});
+
+        console.log(
+            acknowledged
+                ? `🟢 ${deletedCount} rows successfully deleted`
+                : '🔴 Unable to delete data!'
         );
-        seed && (await seed.model.deleteMany({}));
     };
 
-    const deleteAll = async () =>
+    const deleteAll = async () => {
         await Promise.all(
             collectionsMap.map(async ({ model }) => {
                 await model.deleteMany({});
             })
         );
 
-    collection ? await deleteOne(collection) : await deleteAll();
+        console.log(`🟢 All data successfully deleted`);
+    };
 
-    return console.log(`${collection || 'All'} data successfully deleted!`);
+    collection ? await deleteOne(collection) : await deleteAll();
 };
 
 (async function () {
     if (!config.databaseURL) {
-        return console.error('Database link is not provided');
+        return console.error('🔴 Database link is not provided!');
     }
 
     try {
         await mongoose.connect(config.databaseURL);
-        console.info('Connection with DB is established');
+        console.info('🟢 Connection with DB is established');
     } catch (error: any) {
         throw new ApiError(StatusCodes.INTERNAL_SERVER_ERROR, error);
     }

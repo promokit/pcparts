@@ -1,11 +1,6 @@
-import { Schema, model, InferSchemaType } from 'mongoose';
+import { Schema, model, InferSchemaType, Document } from 'mongoose';
 
 const schema: Schema = new Schema({
-    _id: {
-        type: String,
-        required: [true, 'Graphic model can not be empty'],
-        maxlength: [64, 'Graphic model must have less 64 characters'],
-    },
     model: {
         type: String,
         required: [true, 'Graphic model can not be empty'],
@@ -51,7 +46,7 @@ const schema: Schema = new Schema({
 
 type schemaType = InferSchemaType<typeof schema>;
 
-interface GraphicInterface extends schemaType {}
+interface GraphicInterface extends Document, schemaType {}
 
 const GraphicModel = model<GraphicInterface>('Graphic', schema);
 
