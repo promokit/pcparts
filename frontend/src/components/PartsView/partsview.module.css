@@ -6,7 +6,6 @@
 
 .view {
     grid-area: view;
-    border: 1px solid blue;
 }
 
 .svgWrapper {

@@ -37,18 +37,18 @@ export const getServerSideProps = async () => {
       query getStartData {
         getMotherboardsBy(limit: 20) {
           _id
+          brand {
+            name
+          }
           model
           ram_slots
-          brand {
-            name
-          }
         }
-        getCpusBy(limit: 20) {
+        getCpuBy(limit: 20) {
           _id
-          model
           brand {
             name
           }
+          model
         }
       }
     `,
@@ -57,7 +57,7 @@ export const getServerSideProps = async () => {
   return {
     props: {
       motherboards: data.getMotherboardsBy,
-      cpus: data.getCpusBy,
+      cpus: data.getCpuBy,
     },
  };
 }

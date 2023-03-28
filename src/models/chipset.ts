@@ -1,7 +1,6 @@
-import { Schema, model } from 'mongoose';
-import { ChipsetInterface } from '../interfaces';
+import { Schema, model, InferSchemaType, Document } from 'mongoose';
 
-const schema: Schema = new Schema<ChipsetInterface>({
+const schema: Schema = new Schema({
     name: {
         type: String,
         required: [true, 'Chipset can not be empty'],
@@ -15,4 +14,10 @@ const schema: Schema = new Schema<ChipsetInterface>({
     },
 });
 
-export default model<ChipsetInterface>('Chipset', schema);
+type schemaType = InferSchemaType<typeof schema>;
+
+interface ChipsetInterface extends Document, schemaType {}
+
+const ChipsetModel = model<ChipsetInterface>('Chipset', schema);
+
+export { ChipsetInterface, ChipsetModel };

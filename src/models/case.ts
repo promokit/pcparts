@@ -1,7 +1,6 @@
-import { Schema, model } from 'mongoose';
-import { CaseInterface } from '../interfaces';
+import { Schema, model, InferSchemaType, Document } from 'mongoose';
 
-const schema: Schema = new Schema<CaseInterface>({
+const schema: Schema = new Schema({
     model: {
         type: String,
         required: [true, 'Case model can not be empty'],
@@ -20,4 +19,10 @@ const schema: Schema = new Schema<CaseInterface>({
     },
 });
 
-export default model<CaseInterface>('Case', schema);
+type schemaType = InferSchemaType<typeof schema>;
+
+interface CaseInterface extends Document, schemaType {}
+
+const CaseModel = model<CaseInterface>('Case', schema);
+
+export { CaseInterface, CaseModel };

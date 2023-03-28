@@ -10,7 +10,7 @@ First install all dependencies from `package-lock.json`
 npm install
 ```
 
-Start development server
+Start development server with nodemon
 
 ```bash
 npm run start:dev
@@ -51,3 +51,22 @@ npm run db:delete
 ```bash
 npm run db:delete brands
 ```
+
+## Development
+
+### GraphQL Types Generator
+
+In this project we are using automatic GraphQL types generation with @graphql-codegen
+Development process looks like this:
+
+-   create/modify type definisions and resolvers
+-   run the application. @graphql-codegen is pointed to the app url
+-   run `npm run codegen` to regenerate all types
+-   see the result in the file `/src/graphql/generated/graphql.ts`
+-   apply generated types where it's necessary
+
+OR
+
+-   run codegen in `watch` mode if you intensively develop types `npm run codegen:watch`
+
+More details about types generation here: https://the-guild.dev/graphql/codegen/docs/getting-started/development-workflow
