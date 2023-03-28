@@ -1,5 +1,5 @@
-import { ErrorInterface } from '@/interfaces/ErrorInterface';
-import { StatusCodes } from '@/models/enums/status_codes';
+import { ErrorInterface } from '../interfaces/ErrorInterface';
+import { StatusCodes } from '../models/enums/status_codes';
 
 class ApiError extends Error implements ErrorInterface {
     public readonly status: StatusCodes;

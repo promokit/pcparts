@@ -1,7 +1,7 @@
 import { Request, Response, NextFunction } from 'express';
-import ApiError from '@/abstractions/ApiError';
+import ApiError from '../abstractions/ApiError';
 import { StatusCodes } from '../models/enums/status_codes';
-import { ErrorInterface } from '@/interfaces/ErrorInterface';
+import { ErrorInterface } from '../interfaces/ErrorInterface';
 
 const defaultMessage = 'An error occurred during the request.';
 

@@ -1,4 +1,4 @@
-import { Schema, model, InferSchemaType } from 'mongoose';
+import { Schema, model, InferSchemaType, Document } from 'mongoose';
 
 const schema: Schema = new Schema({
     model: {
@@ -38,7 +38,7 @@ const schema: Schema = new Schema({
 
 type schemaType = InferSchemaType<typeof schema>;
 
-interface StorageInterface extends schemaType {}
+interface StorageInterface extends Document, schemaType {}
 
 const StorageModel = model<StorageInterface>('Storage', schema);
 

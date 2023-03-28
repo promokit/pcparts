@@ -1,20 +1,62 @@
-import config from '../config';
+import { PipelineStage, PopulateOptions } from 'mongoose';
 import { QueryGetMotherboardsByArgs as Args } from '../graphql/generated';
+import { makeAggregation } from '../utils/mongoose';
 import {
     MotherboardInterface as Items,
     MotherboardModel as Model,
 } from '../models';
+import config from '../config';
+
+const lookups: PipelineStage.Lookup[] = [
+    {
+        $lookup: {
+            from: 'cpus',
+            localField: 'socket',
+            foreignField: 'socket',
+            as: 'relatedCpus',
+        },
+    },
+    {
+        $lookup: {
+            from: 'graphics',
+            localField: 'graphics_bus',
+            foreignField: 'graphics_bus',
+            as: 'relatedGraphics',
+        },
+    },
+    {
+        $lookup: {
+            from: 'rams',
+            localField: 'ram_slots',
+            foreignField: 'modules',
+            as: 'relatedRam',
+        },
+    },
+    {
+        $lookup: {
+            from: 'cases',
+            localField: 'form_factor',
+            foreignField: 'form_factor',
+            as: 'relatedCases',
+        },
+    },
+];
+
+const populations: PopulateOptions = {
+    path: 'brand socket chipset form_factor graphics_bus',
+    select: 'name _id',
+};
 
 const getMotherboards = async (args: Args): Promise<Items[]> => {
-    let { limit, ...filter } = args;
-    limit = limit || config.db.requests.limit;
-
-    const params = {
-        path: 'brand socket chipset form_factor graphics_bus',
-        select: 'name _id',
+    const props = {
+        args: {
+            ...args,
+            limit: args.limit || config.db.requests.limit,
+        },
+        lookups,
+        populations,
     };
-
-    return await Model.find(filter).limit(limit).populate(params);
+    return await makeAggregation<Items, Args>(Model, props);
 };
 
 export { getMotherboards };

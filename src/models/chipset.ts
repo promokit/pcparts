@@ -1,4 +1,4 @@
-import { Schema, model, InferSchemaType } from 'mongoose';
+import { Schema, model, InferSchemaType, Document } from 'mongoose';
 
 const schema: Schema = new Schema({
     name: {
@@ -16,7 +16,7 @@ const schema: Schema = new Schema({
 
 type schemaType = InferSchemaType<typeof schema>;
 
-interface ChipsetInterface extends schemaType {}
+interface ChipsetInterface extends Document, schemaType {}
 
 const ChipsetModel = model<ChipsetInterface>('Chipset', schema);
 
