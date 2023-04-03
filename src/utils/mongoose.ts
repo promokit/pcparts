@@ -2,7 +2,7 @@ import { AggregationProps } from '../interfaces/MongooseInterface';
 import { Model, Document, PipelineStage } from 'mongoose';
 import config from '../config';
 
-const getPipeline = <T>(props: AggregationProps<T>): PipelineStage[] => {
+export const getPipeline = <T>(props: AggregationProps<T>): PipelineStage[] => {
     const { limit = config.db.requests.limit, ...filter } = props.args;
     const stages: PipelineStage.Match[] = Object.entries(filter).map(
         (param) => ({
