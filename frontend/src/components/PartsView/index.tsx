@@ -1,6 +1,30 @@
+import client from '@/src/middleware/apollo-client';
+import { useQuery } from '@apollo/client';
 import styles from './partsview.module.css';
+import GetCpuById from '@/queries/getCpuById';
+import GetSecondaryPartsBy from '@/queries/getSecondaryParts';
+import GetRamById from '@/queries/getRamById';
 
-function PartsView() {
+interface PartsViewProps {
+    selectedMotherboardId: string;
+    selectedCpuId: string;
+    selectedCaseId: string;
+    selectedRamId: string;
+    selectedGraphicId: string;
+}
+
+function PartsView({ selectedMotherboardId, selectedCpuId, selectedRamId }: PartsViewProps) {
+
+    console.log('ram', selectedRamId)
+
+    if (selectedRamId) {
+        const { data, loading, error } = useQuery(GetRamById, { client, variables: { id: selectedRamId } })
+        console.log('!!!', { data, loading, error})
+    }
+    
+
+  
+
     return (<div className={styles.view}>
         <svg viewBox="0 0 500 500" className={styles.svg}>
             <rect x="10" y="10" width="480" height="480" rx="5" strokeWidth="3" ry="5" stroke="#000" fill="#fff" />
