@@ -29,7 +29,7 @@ const config: AppConfigInterface = {
     },
     db: {
         requests: {
-            limit: 10,
+            limit: Number.MAX_SAFE_INTEGER,
         },
     },
 };

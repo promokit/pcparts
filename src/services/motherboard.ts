@@ -40,10 +40,26 @@ const lookups: PipelineStage.Lookup[] = [
             as: 'relatedCases',
         },
     },
+    {
+        $lookup: {
+            from: 'powersuppliers',
+            localField: 'form_factor',
+            foreignField: 'form_factor',
+            as: 'relatedPowerSuppliers',
+        },
+    },
+    {
+        $lookup: {
+            from: 'storages',
+            localField: 'storage_port',
+            foreignField: 'storage_port',
+            as: 'relatedStorage',
+        },
+    },
 ];
 
 const populations: PopulateOptions = {
-    path: 'brand socket chipset form_factor graphics_bus',
+    path: 'brand socket chipset form_factor graphics_bus storage_port',
     select: 'name _id',
 };
 
