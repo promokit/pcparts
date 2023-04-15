@@ -74,6 +74,7 @@ export type Motherboards = {
   relatedGraphics?: Maybe<Array<Maybe<Graphic>>>;
   relatedPowerSuppliers?: Maybe<Array<Maybe<PowerSupplier>>>;
   relatedRam?: Maybe<Array<Maybe<Ram>>>;
+  relatedStorage?: Maybe<Array<Maybe<Storage>>>;
   socket?: Maybe<BasicInstance>;
   storage_ports?: Maybe<Array<Maybe<BasicInstance>>>;
 };
@@ -133,7 +134,6 @@ export type QueryGetMotherboardsByArgs = {
   graphics_bus?: InputMaybe<Scalars['ID']>;
   limit?: InputMaybe<Scalars['Int']>;
   socket?: InputMaybe<Scalars['ID']>;
-  storage_port?: InputMaybe<Scalars['ID']>;
 };
 
 
@@ -351,6 +351,7 @@ export type MotherboardsResolvers<ContextType = any, ParentType extends Resolver
   relatedGraphics?: Resolver<Maybe<Array<Maybe<ResolversTypes['Graphic']>>>, ParentType, ContextType>;
   relatedPowerSuppliers?: Resolver<Maybe<Array<Maybe<ResolversTypes['PowerSupplier']>>>, ParentType, ContextType>;
   relatedRam?: Resolver<Maybe<Array<Maybe<ResolversTypes['Ram']>>>, ParentType, ContextType>;
+  relatedStorage?: Resolver<Maybe<Array<Maybe<ResolversTypes['Storage']>>>, ParentType, ContextType>;
   socket?: Resolver<Maybe<ResolversTypes['BasicInstance']>, ParentType, ContextType>;
   storage_ports?: Resolver<Maybe<Array<Maybe<ResolversTypes['BasicInstance']>>>, ParentType, ContextType>;
   __isTypeOf?: IsTypeOfResolverFn<ParentType, ContextType>;
