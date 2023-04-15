@@ -36,7 +36,7 @@ describe('mongoose queries', () => {
     beforeEach(() => mockingoose.resetAll());
 
     describe('getPipeline', () => {
-        it('returns an array with one match stage when passed one filter parameter', () => {
+        it('return an array with one match stage when passed one filter parameter', () => {
             const expectedOutput = [
                 {
                     $match: {
@@ -52,6 +52,14 @@ describe('mongoose queries', () => {
             ];
 
             const results = getPipeline(mockProps);
+
+            expect(results).toEqual(expectedOutput);
+        });
+
+        it('return only the limit argument if nothing else was passed.', () => {
+            const expectedOutput = [{ $limit: 1 }];
+
+            const results = getPipeline({ args: { limit: 1 } });
 
             expect(results).toEqual(expectedOutput);
         });
