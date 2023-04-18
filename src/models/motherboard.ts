@@ -36,6 +36,11 @@ const schema: Schema = new Schema({
         ref: 'Chipset',
         required: [true, 'Motherboard must have a Chipset!'],
     },
+    storage_ports: {
+        type: [Schema.Types.ObjectId],
+        ref: 'StoragePorts',
+        required: [true, 'Motherboard must have at least one Storage Port!'],
+    },
 });
 
 type schemaType = InferSchemaType<typeof schema>;

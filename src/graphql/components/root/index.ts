@@ -14,10 +14,12 @@ export interface GqlApolloConfigInterface {
 
 export const rootTypesDefs = gql`
     type Query
+
     type BasicInstance {
         _id: ID
         name: String
     }
+
     type Motherboards {
         _id: ID
         model: String
@@ -27,11 +29,15 @@ export const rootTypesDefs = gql`
         chipset: BasicInstance
         form_factor: BasicInstance
         graphics_bus: BasicInstance
+        storage_ports: [BasicInstance]
         relatedGraphics: [Graphic]
         relatedCases: [Case]
         relatedCpus: [Cpu]
         relatedRam: [Ram]
+        relatedStorage: [Storage]
+        relatedPowerSuppliers: [PowerSupplier]
     }
+
     type Cpu {
         _id: ID
         model: String
