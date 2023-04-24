@@ -6,7 +6,7 @@ import styles from '@/styles/Home.module.css'
 import PartsView from '../src/components/PartsView';
 import Selector from '../src/components/SelectorView';
 import client from "../src/middleware/apollo-client";
-import { Motherboard, CPU } from '@/type';
+import { Motherboard } from '@/type';
 import { initialState, reducer } from '@/src/middleware/useReducer';
 
 const inter = Inter({ subsets: ['latin'] })
@@ -17,7 +17,7 @@ interface pageProps {
 
 export default function Home({ motherboards }: pageProps) {
   const [state, dispatch] = useReducer(reducer, initialState);
-  const { selectedMotherboardId, selectedCaseId, selectedCpuId, selectedRamId, selectedGraphicId } = state;
+  const { selectedMotherboardId, selectedCaseId, selectedCpuId, selectedRamId, selectedGraphicId, selectedPowerSupplierId, selectedStorageId } = state;
   return (
     <>
       <Head>
@@ -28,7 +28,15 @@ export default function Home({ motherboards }: pageProps) {
       </Head>
       <main className={styles.main}>
         <Selector motherboards={motherboards} selectedMotherboardId={selectedMotherboardId} dispatch={dispatch} />
-        <PartsView selectedGraphicId={selectedGraphicId} selectedMotherboardId={selectedMotherboardId} selectedCpuId={selectedCpuId} selectedCaseId={selectedCaseId} selectedRamId={selectedRamId} />
+        <PartsView 
+          selectedGraphicId={selectedGraphicId} 
+          selectedMotherboardId={selectedMotherboardId} 
+          selectedCpuId={selectedCpuId} 
+          selectedCaseId={selectedCaseId} 
+          selectedRamId={selectedRamId} 
+          selectedPowerSupplierId={selectedPowerSupplierId} 
+          selectedStorageId={selectedStorageId}
+        />
       </main>
     </>
   )
@@ -38,7 +46,7 @@ export const getServerSideProps = async () => {
   const { data } = await client.query({
     query: gql`
       query getStartData {
-        getMotherboardsBy(limit: 70) {
+        getMotherboardsBy {
           _id
           model
           brand {

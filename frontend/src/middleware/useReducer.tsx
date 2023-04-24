@@ -5,7 +5,9 @@ type State = {
     selectedCpuId: string
     selectedCaseId: string
     selectedRamId: string
-    selectedGraphicId: string
+    selectedGraphicId: string,
+    selectedPowerSupplierId: string,
+    selectedStorageId: string,
 }
 
 export type Action = | {
@@ -23,6 +25,12 @@ export type Action = | {
 } | {
     type: typeof actions.SELECT_CASE
     payload: string
+} | {
+    type: typeof actions.SELECT_POWER_SUPPLIER
+    payload: string
+} | {
+    type: typeof actions.SELECT_STORAGE,
+    payload: string
 }
 
 export const initialState: State = {
@@ -31,6 +39,8 @@ export const initialState: State = {
     selectedCaseId: '',
     selectedRamId: '',
     selectedGraphicId: '',
+    selectedPowerSupplierId: '',
+    selectedStorageId: '',
 };
 
 
@@ -44,6 +54,8 @@ export function reducer(state: State, action: Action):State {
                 selectedCaseId: '',
                 selectedRamId: '',
                 selectedGraphicId: '',
+                selectedPowerSupplierId: '',
+                selectedStorageId: '',
             }
         }
         case actions.SELECT_CPU: {
@@ -70,6 +82,20 @@ export function reducer(state: State, action: Action):State {
             return {
                 ...state,
                 selectedGraphicId: action.payload,
+            }
+        }
+
+        case actions.SELECT_POWER_SUPPLIER: {
+            return {
+                ...state,
+                selectedPowerSupplierId: action.payload,
+            }
+        }
+
+        case actions.SELECT_STORAGE: {
+            return {
+                ...state,
+                selectedStorageId: action.payload,
             }
         }
 

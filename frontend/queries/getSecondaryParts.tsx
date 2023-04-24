@@ -18,6 +18,14 @@ const GetSecondaryPartsBy = gql`query getSecondaryParts($id: ID) {
       _id
       model
     }
+    relatedPowerSuppliers {
+      _id
+      model
+    }
+    relatedStorage {
+      _id
+      model
+    }
   }
 }
 
