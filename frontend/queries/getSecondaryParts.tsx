@@ -28,7 +28,6 @@ const GetSecondaryPartsBy = gql`query getSecondaryParts($id: ID) {
     }
   }
 }
-
 `;
 
 

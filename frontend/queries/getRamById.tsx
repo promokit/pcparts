@@ -10,7 +10,6 @@ const GetRamById = gql`query GetRamById($id: ID) {
         }
       }
 }
-
 `;
 
 

@@ -20,7 +20,6 @@ const GetCpuById = gql`query getCpuById($id: ID) {
           smt
         }
 }
-
 `;
 
 
