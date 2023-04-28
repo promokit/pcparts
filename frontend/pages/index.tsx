@@ -1,3 +1,4 @@
+import { useReducer } from 'react';
 import Head from 'next/head'
 import { gql } from "@apollo/client";
 import { Inter } from 'next/font/google'
@@ -5,16 +6,19 @@ import styles from '@/styles/Home.module.css'
 import PartsView from '../src/components/PartsView';
 import Selector from '../src/components/SelectorView';
 import client from "../src/middleware/apollo-client";
-import { Motherboard, CPU } from '@/type';
+import { Motherboard } from '@/type';
+import { initialState, reducer } from '@/src/middleware/useReducer';
 
 const inter = Inter({ subsets: ['latin'] })
 
 interface pageProps {
-  motherboards: Motherboard[]
-  cpus: CPU[]
+  motherboards: Motherboard[];
 }
 
-export default function Home({ motherboards, cpus } : pageProps) {
+export default function Home({ motherboards }: pageProps) {
+  const [state, dispatch] = useReducer(reducer, initialState);
+  const { selectedMotherboardId, selectedCaseId, selectedCpuId, selectedRamId, selectedGraphicId, selectedPowerSupplierId, selectedStorageId } = state;
+  const selectedParts = { selectedMotherboardId, selectedCaseId, selectedCpuId, selectedRamId, selectedGraphicId, selectedPowerSupplierId, selectedStorageId };
   return (
     <>
       <Head>
@@ -24,8 +28,10 @@ export default function Home({ motherboards, cpus } : pageProps) {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <Selector motherboards={motherboards} cpus={cpus} />
-        <PartsView />
+        <Selector motherboards={motherboards} selectedMotherboardId={selectedMotherboardId} dispatch={dispatch} />
+        <PartsView
+          selectedParts={selectedParts}
+        />
       </main>
     </>
   )
@@ -35,20 +41,12 @@ export const getServerSideProps = async () => {
   const { data } = await client.query({
     query: gql`
       query getStartData {
-        getMotherboardsBy(limit: 20) {
+        getMotherboardsBy {
           _id
+          model
           brand {
             name
           }
-          model
-          ram_slots
-        }
-        getCpuBy(limit: 20) {
-          _id
-          brand {
-            name
-          }
-          model
         }
       }
     `,
@@ -57,7 +55,6 @@ export const getServerSideProps = async () => {
   return {
     props: {
       motherboards: data.getMotherboardsBy,
-      cpus: data.getCpuBy,
     },
- };
+  };
 }

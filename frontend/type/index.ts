@@ -1,9 +1,17 @@
 import Motherboard  from "./Motherboard";
 import CPU from './CPU';
-import SelectorProps from "./SelectorProps";
+import RAM from './RAM';
+import Graphics from "./Graphics";
+import Case from "./Case";
+import PowerSupplier from "./PowerSupplier";
+import Storage from "./Storage";
 
 export type {
     CPU,
     Motherboard,
-    SelectorProps,
+    RAM,
+    Graphics,
+    Case,
+    PowerSupplier,
+    Storage,
 }

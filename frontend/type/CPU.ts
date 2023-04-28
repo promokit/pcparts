@@ -1,7 +1,7 @@
 export default interface CPU {
-    model: string,
+    model: string;
     brand: {
         name: string,
-    },
-    _id: string,
+    };
+    _id: string;
 }

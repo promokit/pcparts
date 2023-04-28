@@ -1,6 +1,21 @@
+import client from '@/src/middleware/apollo-client';
+import { useQuery } from '@apollo/client';
 import styles from './partsview.module.css';
+import SelectedParts from '@/type/SelectedParts';
+import GetRamById from '@/queries/getRamById';
 
-function PartsView() {
+interface PartsViewProps {
+    selectedParts: SelectedParts;
+}
+
+function PartsView({ selectedParts }: PartsViewProps) {
+
+    const { selectedRamId } = selectedParts;
+    // TO-DO: use the selected ids from props to pull specific data for each part and use it to render the SVG and labels
+    if (selectedRamId) {
+        const { data, loading, error } = useQuery(GetRamById, { client, variables: { id: selectedRamId } })
+    }
+    
     return (<div className={styles.view}>
         <svg viewBox="0 0 500 500" className={styles.svg}>
             <rect x="10" y="10" width="480" height="480" rx="5" strokeWidth="3" ry="5" stroke="#000" fill="#fff" />
