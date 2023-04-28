@@ -1,22 +1,16 @@
 import client from '@/src/middleware/apollo-client';
 import { useQuery } from '@apollo/client';
 import styles from './partsview.module.css';
-import GetCpuById from '@/queries/getCpuById';
-import GetSecondaryPartsBy from '@/queries/getSecondaryParts';
+import SelectedParts from '@/type/SelectedParts';
 import GetRamById from '@/queries/getRamById';
 
 interface PartsViewProps {
-    selectedMotherboardId: string;
-    selectedCpuId: string;
-    selectedCaseId: string;
-    selectedRamId: string;
-    selectedGraphicId: string;
-    selectedStorageId: string,
-    selectedPowerSupplierId: string,
+    selectedParts: SelectedParts;
 }
 
-function PartsView({ selectedMotherboardId, selectedCpuId, selectedRamId }: PartsViewProps) {
+function PartsView({ selectedParts }: PartsViewProps) {
 
+    const { selectedRamId } = selectedParts;
     // TO-DO: use the selected ids from props to pull specific data for each part and use it to render the SVG and labels
     if (selectedRamId) {
         const { data, loading, error } = useQuery(GetRamById, { client, variables: { id: selectedRamId } })

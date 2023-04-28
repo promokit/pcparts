@@ -18,6 +18,7 @@ interface pageProps {
 export default function Home({ motherboards }: pageProps) {
   const [state, dispatch] = useReducer(reducer, initialState);
   const { selectedMotherboardId, selectedCaseId, selectedCpuId, selectedRamId, selectedGraphicId, selectedPowerSupplierId, selectedStorageId } = state;
+  const selectedParts = { selectedMotherboardId, selectedCaseId, selectedCpuId, selectedRamId, selectedGraphicId, selectedPowerSupplierId, selectedStorageId };
   return (
     <>
       <Head>
@@ -28,14 +29,8 @@ export default function Home({ motherboards }: pageProps) {
       </Head>
       <main className={styles.main}>
         <Selector motherboards={motherboards} selectedMotherboardId={selectedMotherboardId} dispatch={dispatch} />
-        <PartsView 
-          selectedGraphicId={selectedGraphicId} 
-          selectedMotherboardId={selectedMotherboardId} 
-          selectedCpuId={selectedCpuId} 
-          selectedCaseId={selectedCaseId} 
-          selectedRamId={selectedRamId} 
-          selectedPowerSupplierId={selectedPowerSupplierId} 
-          selectedStorageId={selectedStorageId}
+        <PartsView
+          selectedParts={selectedParts}
         />
       </main>
     </>
