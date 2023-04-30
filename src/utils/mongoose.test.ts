@@ -1,4 +1,5 @@
 const mockingoose = require('mockingoose');
+
 import { getPipeline } from './mongoose';
 import {
     CaseModel,
@@ -19,21 +20,27 @@ import {
     getStorages,
 } from '../services';
 
+const limit = 2;
+
 const mockProps = {
     args: {
-        limit: 3,
+        limit,
         brand: '63e4b423fa998a018052c7d7',
     },
 };
 
-const mockReturn = [
-    {
-        model: 'Vengeance LPX 16 GB',
-    },
+enum MODELS {
+    MODEL1 = 'MODEL1',
+    MODEL2 = 'MODEL2',
+}
+
+const mockArgs = [
+    { _id: '1', model: MODELS.MODEL1 },
+    { _id: '2', model: MODELS.MODEL2 },
 ];
 
 describe('mongoose queries', () => {
-    beforeEach(() => mockingoose.resetAll());
+    afterEach(() => mockingoose.resetAll());
 
     describe('getPipeline', () => {
         it('return an array with one match stage when passed one filter parameter', () => {
@@ -66,72 +73,144 @@ describe('mongoose queries', () => {
     });
 
     describe('getRam', () => {
-        test('returns a list of RAM', async () => {
-            mockingoose(RamModel).toReturn(mockReturn, 'aggregate');
+        it('should return RAM models', async () => {
+            mockingoose(RamModel).toReturn(mockArgs, 'aggregate');
 
-            const results = await getRam(mockProps.args);
+            const result = await getRam({ limit });
 
-            expect(results).toEqual(mockReturn);
+            expect(result).toHaveLength(limit);
+            expect(result[0].model).toBe(MODELS.MODEL1);
+            expect(result[1].model).toBe(MODELS.MODEL2);
+        });
+
+        it('should return requested RAM item by ID', async () => {
+            mockingoose(RamModel).toReturn([mockArgs[1]], 'aggregate');
+
+            const result = await getRam({ _id: '2' });
+            expect(result).toHaveLength(1);
+            expect(result[0].model).toBe(MODELS.MODEL2);
         });
     });
 
     describe('getCpus', () => {
-        test('returns a list of Cpus', async () => {
-            mockingoose(CpuModel).toReturn(mockReturn, 'aggregate');
+        it('should return CPU models', async () => {
+            mockingoose(CpuModel).toReturn(mockArgs, 'aggregate');
 
-            const results = await getCpus(mockProps.args);
+            const result = await getCpus({ limit });
 
-            expect(results).toEqual(mockReturn);
+            expect(result).toHaveLength(limit);
+            expect(result[0].model).toBe(MODELS.MODEL1);
+            expect(result[1].model).toBe(MODELS.MODEL2);
+        });
+
+        it('should return requested CPU item by ID', async () => {
+            mockingoose(CpuModel).toReturn([mockArgs[1]], 'aggregate');
+
+            const result = await getCpus({ _id: '2' });
+            expect(result).toHaveLength(1);
+            expect(result[0].model).toBe(MODELS.MODEL2);
         });
     });
 
     describe('getCases', () => {
-        test('returns a list of Cases', async () => {
-            mockingoose(CaseModel).toReturn(mockReturn, 'aggregate');
+        it('should return Cases models', async () => {
+            mockingoose(CaseModel).toReturn(mockArgs, 'aggregate');
+            const result = await getCases({ limit });
 
-            const results = await getCases(mockProps.args);
+            expect(result).toHaveLength(limit);
+            expect(result[0].model).toBe(MODELS.MODEL1);
+            expect(result[1].model).toBe(MODELS.MODEL2);
+        });
 
-            expect(results).toEqual(mockReturn);
+        it('should return requested Case item by ID', async () => {
+            mockingoose(CaseModel).toReturn([mockArgs[1]], 'aggregate');
+
+            const result = await getCases({ _id: '2' });
+            expect(result).toHaveLength(1);
+            expect(result[0].model).toBe(MODELS.MODEL2);
         });
     });
 
     describe('getGraphics', () => {
-        test('returns a list of Graphics', async () => {
-            mockingoose(GraphicModel).toReturn(mockReturn, 'aggregate');
+        it('should return Graphics models', async () => {
+            mockingoose(GraphicModel).toReturn(mockArgs, 'aggregate');
 
-            const results = await getGraphics(mockProps.args);
+            const result = await getGraphics({ limit });
 
-            expect(results).toEqual(mockReturn);
+            expect(result).toHaveLength(limit);
+            expect(result[0].model).toBe(MODELS.MODEL1);
+            expect(result[1].model).toBe(MODELS.MODEL2);
+        });
+
+        it('should return requested Graphic item by ID', async () => {
+            mockingoose(GraphicModel).toReturn([mockArgs[1]], 'aggregate');
+
+            const result = await getGraphics({ _id: '2' });
+            expect(result).toHaveLength(1);
+            expect(result[0].model).toBe(MODELS.MODEL2);
         });
     });
 
     describe('getStorages', () => {
-        test('returns a list of Storages', async () => {
-            mockingoose(StorageModel).toReturn(mockReturn, 'aggregate');
+        it('should return Storages models', async () => {
+            mockingoose(StorageModel).toReturn(mockArgs, 'aggregate');
 
-            const results = await getStorages(mockProps.args);
+            const result = await getStorages({ limit });
 
-            expect(results).toEqual(mockReturn);
+            expect(result).toHaveLength(limit);
+            expect(result[0].model).toBe(MODELS.MODEL1);
+            expect(result[1].model).toBe(MODELS.MODEL2);
+        });
+
+        it('should return requested Storage item by ID', async () => {
+            mockingoose(StorageModel).toReturn([mockArgs[1]], 'aggregate');
+
+            const result = await getStorages({ _id: '2' });
+            expect(result).toHaveLength(1);
+            expect(result[0].model).toBe(MODELS.MODEL2);
         });
     });
 
     describe('getMotherboards', () => {
-        test('returns a list of Motherboards', async () => {
-            mockingoose(MotherboardModel).toReturn(mockReturn, 'aggregate');
+        it('should return Motherboards models', async () => {
+            mockingoose(MotherboardModel).toReturn(mockArgs, 'aggregate');
 
-            const results = await getMotherboards(mockProps.args);
+            const result = await getMotherboards({ limit });
 
-            expect(results).toEqual(mockReturn);
+            expect(result).toHaveLength(limit);
+            expect(result[0].model).toBe(MODELS.MODEL1);
+            expect(result[1].model).toBe(MODELS.MODEL2);
+        });
+
+        it('should return requested Motherboard item by ID', async () => {
+            mockingoose(MotherboardModel).toReturn([mockArgs[1]], 'aggregate');
+
+            const result = await getMotherboards({ _id: '2' });
+            expect(result).toHaveLength(1);
+            expect(result[0].model).toBe(MODELS.MODEL2);
         });
     });
 
     describe('getPowersuppliers', () => {
-        test('returns a list of Power Suppliers', async () => {
-            mockingoose(PowerSupplierModel).toReturn(mockReturn, 'aggregate');
+        it('should return Power Suppliers models', async () => {
+            mockingoose(PowerSupplierModel).toReturn(mockArgs, 'aggregate');
 
-            const results = await getPowerSuppliers(mockProps.args);
+            const result = await getPowerSuppliers({ limit });
 
-            expect(results).toEqual(mockReturn);
+            expect(result).toHaveLength(limit);
+            expect(result[0].model).toBe(MODELS.MODEL1);
+            expect(result[1].model).toBe(MODELS.MODEL2);
+        });
+
+        it('should return requested Power Supplier item by ID', async () => {
+            mockingoose(PowerSupplierModel).toReturn(
+                [mockArgs[1]],
+                'aggregate'
+            );
+
+            const result = await getPowerSuppliers({ _id: '2' });
+            expect(result).toHaveLength(1);
+            expect(result[0].model).toBe(MODELS.MODEL2);
         });
     });
 });
