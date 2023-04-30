@@ -5,6 +5,7 @@
     "main": "server.js",
     "scripts": {
         "compile": "tsc",
+        "start": "npx nodemon",
         "start:dev": "npx nodemon",
         "start:prod": "npm run compile && node ./dist/index.js",
         "db:seed": "npx ts-node src/utils/db_seeder.ts --seed",
