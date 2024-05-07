@@ -1,8 +1,0 @@
-.selector {
-    grid-area: selector;
-    display: grid;
-    grid-template-columns: 1fr 4fr;
-    grid-auto-rows: 40px;
-    grid-gap: 20px;
-    align-items: center;
-}
